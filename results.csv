@@ -1,0 +1,330 @@
+Filename,Insertions,Deletions,Substitutions,WER,Word Count,transcription,Viterbi transcription
+0000.wav,4,0,0,0.23529411764705882,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,pickled the peter piper picked a the peck of pickled peppers where's the peck of pickled peppers peter piper picked the
+0001.wav,6,0,1,1.0,7,peter picked a peck of pickled peppers,pickled the picked the peter picked the of peck of pickled peppers the
+0002.wav,2,0,1,0.5,6,a peck of pickled peppers picked,pickled the peck of pickled peppers picked the
+0003.wav,3,0,0,0.75,4,peter piper peter piper,pickled the peter piper peter piper the
+0004.wav,2,0,3,0.7142857142857143,7,where's the peck of pickled peppers picked,pickled the where's the pickled pickled peppers picked the
+0005.wav,1,0,0,0.25,4,peter piper pickled peppers,peter piper pickled peppers the
+0006.wav,2,0,0,1.0,2,where's peter,where's peter picked the
+0007.wav,1,0,0,0.2,5,piper picked peppers of peter,piper picked peppers of peter the
+0008.wav,1,0,0,0.16666666666666666,6,peter peppers picked piper of peck,peter peppers picked piper of peck the
+0009.wav,3,0,2,0.625,8,a peck of pickled peppers peter piper pickled,peck the peck peck of picked peppers peter piper pickled the
+0010.wav,1,0,0,1.0,1,picked,the picked
+0011.wav,2,0,0,2.0,1,pickled,the pickled the
+0012.wav,2,0,0,2.0,1,peppers,the peppers the
+0013.wav,2,0,0,2.0,1,piper,the piper the
+0014.wav,2,0,0,2.0,1,peter,the peter the
+0015.wav,4,0,0,0.6666666666666666,6,where's the peck of pickled peppers,the where's the peck the of the pickled peppers the
+0016.wav,3,0,0,1.0,3,peter piper picked,the peter piper the picked the
+0017.wav,4,0,1,0.625,8,peter piper picked a peck of pickled peppers,the peter of piper picked picked of peck of pickled peppers the
+0018.wav,3,0,2,0.8333333333333334,6,picked a peck of pickled peppers,the picked the peck of pickled peck where's the
+0019.wav,5,0,0,1.6666666666666667,3,peter piper picked,the peter of piper the a picked the
+0020.wav,9,0,2,1.5714285714285714,7,peppers picked peter piper where's the peck,the peppers picked the picked piper the a peck the where's the picked the picked the
+0021.wav,8,0,1,0.9,10,peter picked a peck piper pickled peppers of pickled peppers,the peter where's picked of peck the piper the of pickled the peppers of the pickled peppers the
+0022.wav,11,0,1,1.5,8,peter piper piper peter peter peter piper piper,the picked peck piper the of piper the peter picked peter of peter of piper the of piper the
+0023.wav,4,0,0,1.0,4,peter picked piper peppers,the peter of picked piper of peppers the
+0024.wav,6,0,2,1.3333333333333333,6,peter peter peter peter peter peter,the peter peck peter picked peter peck peter picked pickled picked the
+0025.wav,5,0,1,0.8571428571428571,7,piper picked a peck of peter peppers,peck the the piper picked of peck of peter peppers the the
+0026.wav,7,0,2,1.125,8,pickled peppers peter piper picked a peck of,peck the peck pickled of where's peter piper the picked the peck of the the
+0027.wav,5,0,2,0.875,8,of peppers of picked a peter piper of,the of of where's of picked of peter piper of the picked picked
+0028.wav,4,0,1,1.0,5,pickled peppers peter piper picked,the pickled peppers picked of piper of picked the
+0029.wav,4,0,2,0.8571428571428571,7,peter picked a peck of pickled peppers,peck the a picked picked of peck of pickled peppers the
+0030.wav,2,1,1,0.4444444444444444,9,where's a peck of pickled peppers peter piper picked,the where's of peck pickled peppers peter piper picked the
+0031.wav,2,0,2,0.8,5,peter piper picked the peppers,picked piper of picked of peppers the
+0032.wav,4,0,2,1.2,5,pickled peppers picked peter piper,the pickled peck picked a picked piper of the
+0033.wav,1,0,1,0.4,5,a peck of pickled peppers,the peck of pickled peppers the
+0034.wav,2,0,0,0.4,5,where's the peck peter picked,the where's the peck peter picked the
+0035.wav,2,0,0,0.5,4,pickled peppers piper picked,the pickled peppers piper picked where's
+0036.wav,2,0,0,0.6666666666666666,3,peter picked peppers,the peter picked peppers the
+0037.wav,2,1,0,0.375,8,peter piper picked a peck of pickled peppers,the peter piper picked peck of pickled peppers the
+0038.wav,3,0,4,0.875,8,peter piper picked a peck of pickled peppers,peck the peter picked a picked picked picked pickled peppers the
+0039.wav,1,0,0,0.14285714285714285,7,peppers pickled peter of the piper peck,peppers pickled peter of the piper peck the
+0040.wav,4,0,1,0.625,8,piper peter picked where's the pickled peppers peter,picked the peck peter picked where's the pickled peppers peter a the
+0041.wav,2,0,1,0.42857142857142855,7,peck pickled piper of the peter peppers,the peck pickled picked of the peter peppers the
+0042.wav,2,0,2,0.36363636363636365,11,a peck of pickled peter picked the peppers of the peck,peck the peck of pickled peter peck the peppers of the peck the
+0043.wav,3,0,2,0.7142857142857143,7,where's the peck of peppers piper pickled,the where's of a of peppers piper of pickled the
+0044.wav,3,0,2,0.625,8,piper pickled peppers of the peck peter picked,the piper of pickled peppers of the piper peter peck the
+0045.wav,2,0,4,1.0,6,piper peter picked pickled piper peppers,pickled the where's peck pickled picked peppers the
+0046.wav,8,0,4,1.0909090909090908,11,peter picked peppers of the pickled peck of peppers of piper,a the the picked the the where's of the of pickled pickled peck where's of of the of the
+0047.wav,5,1,3,0.5294117647058824,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a the pickled piper picked peck of picked of peppers the where's the peck of picked peppers peter piper picked the
+0048.wav,4,0,1,0.625,8,peter piper picked a peck of pickled peppers,a the of peter piper picked the peck of pickled peppers the
+0049.wav,2,0,1,0.3333333333333333,9,where's the peck of pickled peppers peter piper picked,where's the peck of picked of peppers peter piper picked the
+0050.wav,3,0,2,1.0,5,pickled peppers pickled peter piper,the pickled of where's pickled picked piper the
+0051.wav,3,0,3,0.5454545454545454,11,peter piper picked a peck of pickled peppers peter piper pickled,the peck peter piper picked of picked of pickled where's peter piper pickled where's
+0052.wav,3,1,1,0.625,8,peter piper picked a peck of pickled peppers,the peter of piper picked peck of pickled where's the
+0053.wav,2,0,1,0.5,6,where's the peck of pickled peppers,the where's of peck of pickled peppers the
+0054.wav,3,0,1,1.0,4,piper peter peppers pickled,the piper of peter where's pickled the
+0055.wav,6,0,1,0.7777777777777778,9,peter piper picked peter piper picked peter piper picked,the peter of piper of picked peter of of of picked peter piper of picked
+0056.wav,2,0,1,0.42857142857142855,7,where's the peck of peter piper peppers,the where's the peck of peter piper where's the
+0057.wav,2,0,4,0.75,8,peter piper picked a peck of pickled peppers,picked the picked piper pickled peck the pickled peppers the
+0058.wav,3,0,2,0.625,8,the peck of pickled peppers picked peter piper,the peck of the pickled of where's peck peter piper the
+0059.wav,5,0,1,1.0,6,piper picked peter the pickled peppers,peck the piper of picked peter the pickled picked where's the
+0060.wav,4,0,0,0.8,5,peck piper peter pickled picked,peck the peck piper peter of pickled picked the
+0061.wav,3,0,0,0.6,5,peck peppers pickled peter piper,the peck peppers pickled peter piper picked the
+0062.wav,5,1,3,0.5294117647058824,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,the peter of piper a picked of picked of pickled peppers where's peck of pickled peppers the picked of piper picked
+0063.wav,4,0,2,0.8571428571428571,7,peter piper picked where's the peck of,the picked of piper picked where's of peck pickled of the
+0064.wav,8,0,3,0.9166666666666666,12,pickled peppers pickled peppers peter piper picked a peck of pickled peppers,a the of of where's pickled peppers picked of piper a picked the of a peck of pickled peppers the
+0065.wav,4,0,1,0.625,8,the peck of pickled peppers peter piper picked,the of a of pickled peppers peter of piper a picked the
+0066.wav,3,0,3,0.75,8,peter piper picked a peck of pickled peppers,the the of piper picked of picked of pickled peppers the
+0067.wav,5,0,1,0.75,8,pickled peter peppers pickled peppers piper of piper,the picked of peter the peppers pickled peppers piper of piper picked the
+0068.wav,2,0,1,0.6,5,pickled where's peck peck peppers,the pickled where's peck picked peppers the
+0069.wav,4,0,2,0.6666666666666666,9,picked pickled a pickled peter of peppers peppers piper,the pickled pickled of pickled peter of of peppers peppers piper picked the
+0070.wav,3,0,0,0.75,4,peck peppers picked piper,the peck peppers picked piper a the
+0071.wav,3,0,1,0.8,5,a peter pickled pickled picked,the of peter of pickled pickled picked the
+0072.wav,6,0,6,1.3333333333333333,9,peck peppers picked a picked peter a picked peppers,the piper peck where's picked of picked peck the the of of pickled where's the
+0073.wav,2,0,1,0.375,8,peck picked peppers peck picked where's of pickled,the peck picked where's peck picked where's of pickled the
+0074.wav,2,0,2,0.5,8,a peter where's piper the picked picked peppers,the of peter where's piper the pickled picked peppers the
+0075.wav,4,0,1,0.5555555555555556,9,piper peck of peck pickled picked pickled of peter,the piper of piper of peck pickled picked peck pickled of peter the
+0076.wav,4,0,4,0.8888888888888888,9,peck of peter peppers pickled peppers of picked peter,the peck of the the of peck where's pickled where's of picked the
+0077.wav,5,0,1,0.6666666666666666,9,peppers peck of peck peter picked a of peppers,the picked of where's peck of peck peck peter picked a of peppers the
+0078.wav,2,0,1,0.3333333333333333,9,a peck of the pickled peppers peter piper picked,the of peck of the pickled peppers peter piper picked the
+0079.wav,2,0,0,0.3333333333333333,6,piper picked peter of the peck,the piper picked peter of the peck the
+0080.wav,3,0,1,0.5,8,a peter picked peck of picked pickled piper,picked the peck peter picked peck of picked pickled piper the
+0081.wav,3,0,0,0.6,5,where's peck peppers of piper,the where's peck peppers of piper picked the
+0082.wav,2,0,2,1.3333333333333333,3,piper of peppers,picked piper picked where's the
+0083.wav,3,0,1,1.3333333333333333,3,peter picked piper,picked picked picked piper picked the
+0084.wav,3,4,0,0.7777777777777778,9,where's the peck of pickled peppers peter piper picked,pickled peppers peter of piper picked the peck
+0085.wav,3,1,3,0.6363636363636364,11,the peck of pickled peppers picked a peck of pickled peppers,peck of pickled peppers picked of peck of peck of peck where's the
+0086.wav,6,0,1,0.875,8,peter piper where's the peck of pickled peppers,peter of piper the where's of peck of pickled peppers the peter piper picked
+0087.wav,5,0,3,0.8888888888888888,9,peter piper peter piper a peck of pickled peppers,peter piper of the peter piper the of picked of pickled peck where's picked
+0088.wav,1,4,2,0.4117647058823529,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,piper picked peck pickled peppers where's the peck pickled where's peter picked picked picked
+0089.wav,4,0,5,0.5294117647058824,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,peck the of of the picked peck of pickled peppers where's the peck of picked a peppers peter piper picked the
+0090.wav,5,0,1,0.35294117647058826,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,peck the peter piper picked a peck of pickled peppers where's the peck of pickled picked where's peter piper peck picked the
+0091.wav,3,0,1,1.0,4,where's the peck of,peck the where's of peck of the
+0092.wav,2,0,2,0.8,5,picked a peck of pickled,peck the picked peck of pickled the
+0093.wav,3,0,0,0.6,5,pickled peppers where's the peck,peck the pickled peppers where's the peck the
+0094.wav,2,0,1,1.0,3,peter picked peppers,the peter picked peck where's
+0095.wav,3,1,0,0.8,5,peter pickled a picked peck,the peter pickled picked peck picked the
+0096.wav,3,0,1,0.6666666666666666,6,peter picked the peck of peppers,the picked picked the peck peck of peppers the
+0097.wav,3,0,1,0.5,8,peter picked a peck of the pickled peppers,the peter piper picked the peck of the pickled peppers the
+0098.wav,2,0,1,0.42857142857142855,7,the peck of peppers peter piper pickled,the peck of peck where's peter piper pickled the
+0099.wav,4,0,1,0.45454545454545453,11,the peck pickled peppers picked pickled peter of piper a where's,picked the picked picked pickled peppers picked peck pickled peter of piper a where's the
+0100.wav,2,0,0,0.2,10,the picked of piper picked of pickled a peter piper,the picked of piper picked of pickled a the peter piper the
+0101.wav,4,0,2,0.42857142857142855,14,peck piper picked of picked pickled of where's a peppers peter peppers peter pickled,the picked piper picked of peter pickled of where's a the peppers peter peppers peck peter pickled the
+0102.wav,2,0,0,0.5,4,peppers peck peter pickled,the peppers peck peter pickled the
+0103.wav,2,1,0,0.42857142857142855,7,where's piper picked piper a pickled peppers,the where's piper picked piper pickled peppers the
+0104.wav,6,0,2,1.3333333333333333,6,peter picked peppers of pickled peppers,the picked a picked the peppers of pickled picked picked where's the
+0105.wav,3,0,1,0.4444444444444444,9,peter peppers picked piper a peck of pickled peppers,the peter peppers picked piper picked peck peck of pickled peppers the
+0106.wav,4,1,2,0.875,8,peter piper picked a peck of pickled peppers,the picked piper peck picked peck of pickled picked where's the
+0107.wav,4,0,1,0.625,8,where's the peck of peppers peter piper picked,the where's the picked of peppers peter piper picked a peter the
+0108.wav,2,0,0,0.2857142857142857,7,the peck of pickled peter piper pickled,the peck of pickled peter piper of pickled the
+0109.wav,5,0,0,0.8333333333333334,6,piper peter picked peppers of piper,where's piper peter picked peppers of piper of the picked the
+0110.wav,3,0,1,0.5,8,peter peppers picked a piper of the peck,the peter of peppers picked of piper of the peck the
+0111.wav,4,0,1,0.8333333333333334,6,peck of picked peter piper picked,the picked of picked peter of piper of picked the
+0112.wav,4,0,0,0.8,5,picked the peppers peter pickled,picked the picked the peppers peter of pickled the
+0113.wav,2,0,0,0.2857142857142857,7,the piper of peck peppers peter picked,the piper of peck peppers peter of picked the
+0114.wav,7,0,5,1.5,8,piper picked peter a pickled peck of peppers,the piper of picked the of where's of picked of picked of of where's the
+0115.wav,5,0,1,2.0,3,where's peter piper,the the where's the the piper pickled the
+0116.wav,6,1,4,1.2222222222222223,9,piper picked the peck of pickled peppers peter picked,the the of a picked picked of peck pickled of where's picked picked the
+0117.wav,8,0,2,2.5,4,piper picked peter peppers,the the piper of picked the peck the of of where's the
+0118.wav,3,0,4,0.875,8,peter where's the peck of peppers piper picked,the the where's of peck of of where's piper peter the
+0119.wav,5,0,2,1.75,4,piper peck pickled peppers,the picked piper of picked pickled picked where's the
+0120.wav,2,0,1,1.0,3,peck pickled peter,the a pickled peter the
+0121.wav,4,0,2,1.5,4,peter where's the peck,picked the pickled where's the picked picked the
+0122.wav,2,0,1,0.75,4,the peppers peck pickled,the peck where's peck pickled the
+0123.wav,2,0,4,1.0,6,peter of a peck of peppers,the a peter pickled pickled peck where's the
+0124.wav,5,0,1,1.2,5,peter peter peter peter peter,peck the peter peter picked of peter peter of the
+0125.wav,3,0,0,1.0,3,piper picked peter,the piper picked peter picked the
+0126.wav,6,0,2,2.0,4,piper peppers peter picked,peck the piper of peck of peter of peter the
+0127.wav,1,0,1,0.4,5,a peck of pickled peppers,the peck of pickled peppers the
+0128.wav,2,0,0,0.6666666666666666,3,piper pickled pickled,the piper pickled pickled the
+0129.wav,6,0,3,1.125,8,peter piper picked a peck of pickled peppers,the peck picked of piper of picked of peck of pickled pickled where's the
+0130.wav,5,0,2,0.7777777777777778,9,where's the peck of pickled peppers peter piper picked,the where's the peck of pickled where's peter of piper of a peter the
+0131.wav,7,0,2,1.8,5,peter picked piper pickled peppers,a the of picked of picked piper of pickled of where's the
+0132.wav,1,0,0,0.5,2,where's peter,where's peter the
+0133.wav,3,0,1,1.3333333333333333,3,piper pickled peppers,piper of pickled peck where's the
+0134.wav,4,0,2,1.2,5,peter piper picked a peck,peck picked of piper peck a of peck the
+0135.wav,3,0,3,0.8571428571428571,7,a peck of pickled peppers peter picked,the of pickled of pickled peck where's peter picked the
+0136.wav,7,0,1,1.3333333333333333,6,where's the peck of pickled peppers,peck the where's the peck peck of a pickled picked picked where's the
+0137.wav,5,0,3,1.6,5,pickled peppers picked peter piper,the picked peck where's peck picked of piper picked the
+0138.wav,2,0,2,0.6666666666666666,6,peter piper where's the peck picked,the peter piper picked the a picked the
+0139.wav,4,1,3,1.0,8,peter piper picked a peck of pickled peppers,the picked of of of pickled peck picked pickled peppers the
+0140.wav,6,1,4,1.375,8,peter piper picked a peck of pickled peppers,the picked of of of pickled peck picked picked of peck where's peck
+0141.wav,3,0,5,1.0,8,a peck of pickled peppers peter piper picked,the peck of pickled peck of the the of peter the
+0142.wav,2,0,3,0.5555555555555556,9,where's the peck of pickled peppers peter piper picked,where's the peck of pickled of picked of of picked the
+0143.wav,2,1,2,0.625,8,a peck of pickled peppers peter piper picked,the a of pickled peppers the of picked the
+0144.wav,1,0,2,0.375,8,peter piper picked a peck of pickled peppers,the peter peter picked picked peck of pickled peppers
+0145.wav,9,0,3,1.3333333333333333,9,where's the peck of pickled peppers peter piper picked,picked the where's a picked the peck of the pickled piper where's the picked peck of picked the
+0146.wav,2,0,0,0.6666666666666666,3,where's peter piper,the where's peter piper the
+0147.wav,4,0,1,1.6666666666666667,3,where's pickled peppers,the where's picked pickled peck where's the
+0148.wav,5,0,2,1.75,4,peter picked pickled peppers,the pickled picked the pickled the peck where's the
+0149.wav,3,0,1,0.6666666666666666,6,peter picked a peck of peppers,the the peter picked of peck of peppers the
+0150.wav,3,2,0,0.8333333333333334,6,peter picked a peck of peppers,the peter picked of pickled peppers the
+0151.wav,2,0,0,0.2222222222222222,9,where's the peck of pickled peppers peter piper picked,the where's the peck of pickled peppers peter piper picked the
+0152.wav,2,0,1,0.6,5,where's the peppers peter picked,the where's of peppers peter picked the
+0153.wav,2,0,2,0.5,8,where's the peck of peppers peter piper picked,the where's of peck of peppers peter piper peter the
+0154.wav,2,0,2,0.5,8,peter piper picked a peck of pickled peppers,the picked picked piper picked of peck of pickled peppers
+0155.wav,2,0,1,0.6,5,a peck of pickled peppers,the of peck of pickled peppers the
+0156.wav,5,0,2,1.75,4,peter piper picked peppers,the of piper of peter peck of picked the
+0157.wav,6,0,4,1.1111111111111112,9,peter piper picked where's the peck of pickled peppers,the peter of peck of picked of where's the pickled pickled peck peck picked the
+0158.wav,3,1,2,0.75,8,peter piper picked a peck of pickled peppers,the picked piper peter peck of pickled peck peppers the
+0159.wav,2,0,1,0.3333333333333333,9,where's the peck of pickled peppers peter piper picked,the peppers the peck of pickled peppers peter piper picked the
+0160.wav,5,0,3,1.0,8,peter piper picked a peck of pickled peppers,the a of piper of picked of peck of pickled piper where's the
+0161.wav,4,0,4,0.8888888888888888,9,where's the peck of pickled peppers peter piper picked,the where's of piper of pickled piper where's peter piper of peter the
+0162.wav,5,0,4,1.2857142857142858,7,peck of pickled peppers peter piper picked,the piper of pickled piper where's picked of piper of peter the
+0163.wav,4,0,3,0.875,8,peter piper picked a peck of pickled peppers,the peter piper of picked of piper of pickled piper where's the
+0164.wav,5,0,1,1.2,5,peter piper picked pickled peppers,the peter of piper of picked pickled piper where's the
+0165.wav,4,0,1,1.6666666666666667,3,peter piper picked,peck the peter picked picked picked the
+0166.wav,3,0,2,0.625,8,peter piper picked a peck of pickled peppers,peck picked the of piper picked of peck of pickled peppers
+0167.wav,5,0,0,0.8333333333333334,6,picked a peck of pickled peppers,peck the picked a the of peck of pickled peppers the
+0168.wav,2,0,1,0.5,6,where's the peck of pickled peppers,picked the where's the picked of pickled peppers
+0169.wav,4,1,1,0.6,10,peter piper picked a peck where's the peck peter picked,peck the peter piper picked of peck the where's peck peter picked the
+0170.wav,3,0,1,0.8,5,peter piper picked pickled peppers,where's the picked piper picked pickled peppers the
+0171.wav,5,0,3,1.0,8,peter piper picked pickled peppers where's the peck,picked of piper picked pickled the piper where's the where's the picked the
+0172.wav,2,0,3,0.5555555555555556,9,where's the peck of pickled peppers peter piper picked,where's the picked pickled pickled piper where's peter piper picked the
+0173.wav,5,1,3,1.125,8,peter piper picked a peck of pickled peppers,where's picked of piper picked the of peck pickled piper where's the
+0174.wav,5,1,5,0.6470588235294118,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a the picked piper picked of peck of pickled peppers where's the pickled pickled peck where's the peter peter picked the
+0175.wav,3,0,0,1.5,2,peter piper,the peter piper of the
+0176.wav,3,0,1,2.0,2,pickled peppers,the pickled picked where's the
+0177.wav,10,0,1,1.2222222222222223,9,where's the peck of pickled peppers peter piper picked,where's the peter pickled of pickled the peck of peppers peter the peck a piper picked the a peck
+0178.wav,3,0,0,1.5,2,pickled peppers,the a pickled peppers the
+0179.wav,3,0,3,1.0,6,picked a peck of pickled peppers,the peck a pickled pickled pickled the peppers the
+0180.wav,3,0,2,0.625,8,peter piper picked a peck of pickled peppers,the peter of peter picked of peck of pickled peppers the
+0181.wav,3,0,2,0.625,8,the peck of pickled peppers peter piper picked,peck the picked peck of pickled peppers peter peter peter the
+0182.wav,3,0,1,1.0,4,peter picked pickled peppers,the peter of pickled pickled peppers the
+0183.wav,2,0,0,0.3333333333333333,6,where's the peck of pickled peppers,the where's the peck of pickled peppers the
+0184.wav,2,0,1,0.6,5,a peck of pickled peppers,the of peck of pickled peppers the
+0185.wav,4,0,3,1.1666666666666667,6,piper picked a peck of peter,the a picked the the peck picked peter a the
+0186.wav,3,1,1,0.8333333333333334,6,peter pickled a peck of peppers,the peter pickled peck of of where's the
+0187.wav,4,0,0,1.3333333333333333,3,piper pickled peter,the piper a pickled peter picked peck
+0188.wav,4,0,0,0.8,5,where's peter piper pickled peppers,the where's peter of piper a pickled peppers peck
+0189.wav,3,0,3,1.0,6,piper peter picked peppers picked peter,the piper peter a a where's a peter the
+0190.wav,8,0,3,0.6470588235294118,17,piper pickled picked peppers of picked a pickled piper the peppers peck of peter peter peck where's,the piper of pickled picked peppers of picked the of pickled picked of the picked of where's peck of peter peter of peck where's the
+0191.wav,10,1,4,0.8823529411764706,17,a peter the of peck where's piper peter picked pickled picked peppers pickled of peck peppers piper,the of peter pickled of the peck where's piper of peter picked picked the pickled pickled of where's pickled where's the peck peck where's piper the
+0192.wav,10,0,3,0.7647058823529411,17,peter picked peppers piper picked peter of where's peck pickled the peck pickled a piper peppers of,the peter of picked peter picked piper of picked peter the of where's peck the pickled the of peck the pickled of piper the where's of the
+0193.wav,7,0,6,0.7647058823529411,17,peck piper picked peppers peck the a peter pickled of pickled picked piper of where's peter peppers,the piper piper of picked peppers peck pickled peck peter of pickled where's the pickled picked picked picked where's the where's peter peppers the
+0194.wav,10,0,3,0.7647058823529411,17,a picked pickled peck of of picked the peck piper piper peter pickled peter peppers where's peppers,the of picked pickled peck where's the of picked the where's of peck piper of piper of peter the pickled peter a the peppers picked peppers the
+0195.wav,9,1,3,1.625,8,peter piper picked a peck of pickled peppers,piper the the of peppers of picked of peck of picked picked of picked the picked
+0196.wav,4,0,4,0.8888888888888888,9,where's the peck of pickled peppers peter piper picked,the pickled where's picked peck of picked piper of picked piper picked the
+0197.wav,12,0,7,1.1176470588235294,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,peck the peck the picked peck of picked where's peck of peck peck peck of where's where's the peck peck of picked peck peppers peter pickled peck picked the
+0198.wav,5,0,6,0.6470588235294118,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,the the of of of pickled peck of pickled peppers where's the picked peck of pickled peppers the the pickled peck picked
+0199.wav,7,0,7,0.8235294117647058,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,peck the of peppers picked of peck of pickled peppers where's picked of peck of pickled peck picked a the peck peck picked the
+0200.wav,5,0,11,0.9411764705882353,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,picked of the of of picked peck pickled pickled peck where's of where's piper peck of picked peck picked picked peck picked
+0201.wav,2,1,6,0.5294117647058824,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,pickled pickled peck picked peck pickled pickled peppers picked of peck of pickled peppers peter peck picked picked
+0202.wav,3,1,1,0.5,10,peppers picked a peck of peter a pickled peter piper,the peppers picked peck of peter picked the pickled peter piper picked
+0203.wav,3,1,0,0.23529411764705882,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,the peter piper picked peck of pickled peppers the where's the peck of pickled peppers peter piper picked the
+0204.wav,2,0,0,0.2857142857142857,7,peck of pickled peppers peter piper picked,the peck of pickled peppers peter piper picked the
+0205.wav,2,0,0,0.2857142857142857,7,peter piper peck peppers picked peter peppers,the peter piper peck peppers picked peter peppers the
+0206.wav,3,0,1,0.5,8,pickled peter piper a peck the peppers picked,the pickled peter piper picked the peck the peppers picked the
+0207.wav,4,0,2,0.75,8,peter piper picked a peck of pickled peppers,picked the peter of piper picked of peck of pickled where's the
+0208.wav,3,0,5,0.8888888888888888,9,where's the peck of pickled peppers peter piper picked,the where's of of of picked peppers picked of of picked the
+0209.wav,3,0,1,0.6666666666666666,6,peter picked piper where's the peck,peck the peter picked piper where's of peck the
+0210.wav,4,0,5,1.125,8,pickled peter the peppers a piper where's picked,peck the pickled picked of of of where's of where's picked the
+0211.wav,1,0,4,0.5555555555555556,9,piper pickled peppers where's a peter picked a peck,the piper of peppers where's of peter picked picked the
+0212.wav,7,1,5,0.7647058823529411,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,the peter piper of a of peck of pickled peppers where's a of pickled pickled peck where's the of peter of a the
+0213.wav,7,0,7,0.875,16,the peck of pickled peppers peter piper picked peter piper picked a peck of pickled peppers,the peck a pickled pickled peck where's the of piper a the picked of piper of pickled peck of pickled peck where's the
+0214.wav,5,0,7,0.8571428571428571,14,a peck of pickled peppers peter piper picked where's the peck of pickled peppers,the where's pickled pickled where's picked of piper of a picked where's of peck of pickled picked where's the
+0215.wav,12,0,7,1.1875,16,a peck of pickled peppers picked peter piper where's peter piper peck of pickled peppers picked,the pickled a of of the pickled where's the of the of piper where's the where's the of peter picked of peck of pickled peck where's a the
+0216.wav,7,0,9,1.0,16,a peck of peppers pickled picked peter piper where's peter piper peppers pickled the peck picked,the pickled a picked a where's pickled the the of piper picked where's peter of piper picked where's pickled of piper a the
+0217.wav,3,0,2,0.45454545454545453,11,peter where's a peter picked of piper piper peck pickled picked,peck the pickled where's of peter picked of piper piper peck pickled picked the
+0218.wav,1,0,0,0.2,5,pickled peter pickled of peck,pickled peter pickled of peck the
+0219.wav,4,0,3,0.5833333333333334,12,peppers peppers piper the peck peter picked pickled of pickled piper picked,the where's of where's piper the of peck peter picked pickled of picked piper picked the
+0220.wav,5,0,1,0.6666666666666666,9,where's the peck of pickled peppers peter piper picked,the where's the of peck of pickled peter peter of piper of picked the
+0221.wav,6,1,2,0.5294117647058824,17,peck a piper pickled peter of of the peck peter picked piper where's peppers pickled peppers picked,the peck of piper pickled peter of pickled of peck peter peck picked piper where's of where's the pickled peppers picked the
+0222.wav,2,0,1,0.5,6,peppers of piper pickled the peter,the peppers of piper pickled peter the the
+0223.wav,2,0,0,0.2857142857142857,7,piper picked peter pickled where's the peppers,the piper picked peter pickled where's the peppers the
+0224.wav,1,0,0,0.16666666666666666,6,the peck of piper peter picked,the peck of piper peter picked the
+0225.wav,4,0,0,0.5714285714285714,7,piper peter peter piper picked the peppers,peck the peck piper peter peter piper picked the peppers the
+0226.wav,3,1,1,0.8333333333333334,6,where's the piper of peck peter,the where's peppers of peck peter picked the
+0227.wav,3,0,4,1.0,7,peter picked a peck of pickled peppers,peck the of picked the peck of picked where's the
+0228.wav,2,0,3,0.7142857142857143,7,peter piper picked a peck of peppers,the of piper the the peck of peppers the
+0229.wav,5,0,3,1.6,5,where's the peppers peter picked,peck the where's picked of where's picked of peter the
+0230.wav,4,0,3,1.1666666666666667,6,where's the peck of pickled peppers,the where's picked peck of the the peck where's the
+0231.wav,5,0,3,1.1428571428571428,7,where's the pickled peppers peter piper picked,the where's the the of peppers picked of piper of peter the
+0232.wav,4,0,2,0.35294117647058826,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,peck the peter of piper peck of peck of pickled peppers where's the peck of pickled peppers peter piper picked the
+0233.wav,3,0,3,0.35294117647058826,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,peck the picked piper peck of peck of pickled peppers where's the peck of pickled peppers peter piper picked the
+0234.wav,5,0,0,0.8333333333333334,6,peter peter peter peter piper peter,peck the peter of peter peter peter piper peter picked the
+0235.wav,4,0,0,1.0,4,pickled peppers where's peter,peck the pickled peppers where's peter a the
+0236.wav,3,1,1,0.625,8,peter piper picked a peck of pickled peppers,the of peter of picked peck of pickled peck peppers
+0237.wav,3,0,1,1.3333333333333333,3,the pickled piper,peck the pickled peter of the
+0238.wav,5,0,0,1.0,5,peter piper peck pickled peppers,picked the peter piper picked the peck pickled the peppers
+0239.wav,2,0,1,0.375,8,peter piper picked a peck of pickled peppers,the peter piper picked of peck of pickled peppers the
+0240.wav,3,0,1,0.4444444444444444,9,where's the peck of pickled peppers peter piper picked,the where's of peck of pickled peppers peter of piper picked the
+0241.wav,3,0,0,0.5,6,peter picked peppers piper pickled peppers,the pickled peter picked peppers piper pickled peppers the
+0242.wav,1,0,1,0.2857142857142857,7,where's the peck of peppers peter picked,where's of peck of peppers peter picked the
+0243.wav,4,0,1,0.7142857142857143,7,where's the peck of peppers piper pickled,the where's picked of peck of peppers the piper pickled the
+0244.wav,7,0,3,1.4285714285714286,7,peter picked a peck of pickled peppers,the of the the a of a the of peck of pickled where's the
+0245.wav,5,0,3,1.6,5,the pickled peppers peter picked,the where's where's picked of where's picked of picked the
+0246.wav,4,0,0,1.3333333333333333,3,where's the piper,a the where's the piper where's the
+0247.wav,3,0,1,1.3333333333333333,3,piper picked peter,the piper pickled peter the the
+0248.wav,5,0,3,2.0,4,peter peter piper peppers,the picked of picked of piper of where's the
+0249.wav,2,0,1,0.5,6,pickled piper peter peck of peppers,pickled piper the the peck of peppers the
+0250.wav,2,1,2,0.2777777777777778,18,where's peter of peck picked peppers a piper of pickled the peck picked a piper where's of peck,the where's peter of peck picked where's of piper of pickled the peck picked piper where's of peck the
+0251.wav,3,0,2,0.45454545454545453,11,peck a pickled piper peter of peppers picked the peppers pickled,peck the peck pickled piper of the where's of peppers picked the peppers pickled
+0252.wav,4,0,1,1.6666666666666667,3,where's peter piper,the where's picked of piper a the
+0253.wav,4,1,3,0.8,10,of peppers where's a peck the pickled peter piper picked,peck the of where's where's of peck pickled a the of piper picked
+0254.wav,2,0,3,0.29411764705882354,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,the a picked a picked peck of pickled peppers a the peck of pickled peppers peter piper picked the
+0255.wav,12,0,1,0.7647058823529411,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,the picked a the picked piper picked the a picked of peck of pickled peppers where's the peck of peck pickled peppers peter the piper of picked the the
+0256.wav,10,0,4,0.8235294117647058,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,picked the peter of piper of the the a the of peck of pickled peppers the where's picked peck of picked of peppers picked piper picked the
+0257.wav,5,0,4,0.5294117647058824,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,the picked of of of picked of peck of pickled peppers where's the peck of picked of peppers peter piper picked the
+0258.wav,6,0,4,0.5882352941176471,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,picked the picked picked of of of picked peck of pickled peppers where's the peck of pickled peppers peter of picked picked the
+0259.wav,6,0,4,0.5882352941176471,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,peck a the picked of of of picked peck of pickled of peppers where's the peck of pickled peppers peter of picked the
+0260.wav,6,0,2,1.3333333333333333,6,peck of pickled peppers peter picked,picked the peck of picked of peppers picked of a peter the
+0261.wav,5,0,2,1.4,5,where's the peck peter picked,the where's the where's the picked of a peter the
+0262.wav,5,0,4,1.8,5,pickled peppers peter piper picked,piper the pickled where's the the of of of where's
+0263.wav,5,0,1,1.0,6,peter picked peck of pickled peppers,where's the the picked of peck peck of pickled peppers the
+0264.wav,4,0,1,1.25,4,where's peter piper peck,the the where's picked of piper peck the
+0265.wav,5,0,2,2.3333333333333335,3,piper picked peppers,the picked a picked picked the where's the
+0266.wav,5,0,3,1.3333333333333333,6,where's peter piper pickled picked peppers,piper of the the piper of pickled picked the where's the
+0267.wav,3,0,3,1.0,6,the peck of peppers peter picked,the of of of where's picked a of the
+0268.wav,5,0,4,1.5,6,where's the pickled peck of peppers,the peter the the the of of of of where's the
+0269.wav,4,0,2,1.2,5,peter piper picked pickled peppers,peck the peter piper of a pickled where's the
+0270.wav,3,0,0,1.0,3,peter picked piper,the peter picked picked piper the
+0271.wav,3,0,1,1.0,4,picked peppers picked piper,the a picked where's picked piper the
+0272.wav,4,0,3,1.1666666666666667,6,where's the pickled peppers piper picked,the where's the picked where's piper of a peter the
+0273.wav,5,1,4,1.4285714285714286,7,peck of picked peppers piper peter picked,the picked a peck where's piper of the of a the
+0274.wav,3,0,0,0.75,4,peter piper picked peppers,picked the peter piper picked peppers the
+0275.wav,3,0,0,1.0,3,pickled peppers picked,the pickled peppers a picked the
+0276.wav,3,0,1,0.5714285714285714,7,peter piper picked a peck of peppers,the peter piper picked of peck of peck peppers the
+0277.wav,2,0,0,0.5,4,piper picked pickled peppers,the piper picked pickled peppers the
+0278.wav,2,0,0,0.5,4,peter piper pickled peppers,the peter piper pickled peppers the
+0279.wav,3,1,1,1.25,4,peck the peppers peck,the picked of where's peck the
+0280.wav,3,0,2,1.0,5,piper the piper pickled peppers,the where's the piper of pickled where's the
+0281.wav,6,0,4,1.4285714285714286,7,peter picked piper picked the picked peppers,the a of picked the of pickled the picked the a where's the
+0282.wav,3,0,1,0.8,5,pickled piper peppers pickled peter,the pickled piper of where's pickled peter the
+0283.wav,5,0,8,0.7647058823529411,17,piper peter picked a peck of pickled peppers where's the peck of pickled peppers piper peter picked,the where's peter the of peck of the picked where's where's the peck of pickled where's piper the the of the the
+0284.wav,2,0,0,1.0,2,the peck,a the peck the
+0285.wav,3,0,0,0.75,4,where's the peck peter,the where's the peck peter picked the
+0286.wav,2,0,0,0.6666666666666666,3,piper pickled peppers,the piper pickled peppers the
+0287.wav,4,0,2,0.75,8,a peck of pickled peppers peter piper picked,the of peck of pickled the of where's peter piper picked the
+0288.wav,2,0,1,0.5,6,peppers pickled a peck picked peter,the peppers pickled of peck picked peter the
+0289.wav,1,0,1,0.6666666666666666,3,peter picked peppers,picked where's picked peppers
+0290.wav,3,0,1,1.0,4,peck of pickled peppers,peck peck of pickled peck where's the
+0291.wav,5,0,1,2.0,3,where's peter piper,peck the where's a of piper picked the
+0292.wav,1,0,0,0.25,4,pickled peck of peppers,pickled peck of peppers the
+0293.wav,4,1,1,1.2,5,peter piper picked a peck,picked where's piper a the peck peck the
+0294.wav,3,0,1,0.8,5,peppers of piper peck peter,the where's of piper peck peter where's the
+0295.wav,5,0,1,1.0,6,peter a piper of a peck,where's the peter of piper of picked a peck the the
+0296.wav,3,0,1,1.0,4,peck pickled peter peck,the peck pickled picked of peck the
+0297.wav,5,0,1,0.6666666666666666,9,a piper of peter picked peppers of pickled peter,pickled a piper the of peter picked picked of where's of pickled peter the
+0298.wav,2,0,2,0.8,5,of peck a peter pickled,the of peck picked of pickled the
+0299.wav,1,0,1,0.2857142857142857,7,piper picked a peck of the peppers,piper picked picked peck of the peppers the
+0300.wav,2,0,0,0.6666666666666666,3,where's peter piper,the where's peter piper the
+0301.wav,2,0,0,0.5,4,pickled peppers of peter,pickled peppers of peter picked the
+0302.wav,3,0,2,0.625,8,a peck of pickled peppers of peter piper,the of peck of pickled where's of peter piper picked the
+0303.wav,3,0,2,1.0,5,peppers peppers peppers peppers peppers,peppers of where's peppers peppers of where's the
+0304.wav,1,0,0,0.2,5,peter peck the pickled peppers,the peter peck the pickled peppers
+0305.wav,1,1,0,0.4,5,pickled peter picked the piper,pickled peter picked piper peck
+0306.wav,1,1,0,0.2857142857142857,7,where's the peck of peppers peter picked,the where's peck of peppers peter picked
+0307.wav,2,0,2,0.6666666666666666,6,the peppers pickled peter peppers piper,picked peppers pickled peter peppers a picked the
+0308.wav,5,0,2,1.1666666666666667,6,peppers peck peppers picked peppers peter,peck of where's peck peppers picked of where's peter the the
+0309.wav,14,0,4,1.125,16,peter piper picked a peck of pickled peppers the peck of pickled peppers peter piper picked,the picked the picked piper of pickled of peck of pickled peppers where's the peck of picked picked peppers peter of piper picked the of peck the of pickled of
+0310.wav,12,0,8,1.1764705882352942,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,the the of peter a the of piper the a pickled where's peck picked where's where's peck of of peppers peppers peter a the of peck where's picked the
+0311.wav,9,0,1,2.0,5,a peck of pickled peppers,of a where's the the of peck of pickled of where's piper the the
+0312.wav,4,0,1,1.6666666666666667,3,where's peter piper,picked where's peter the the a the
+0313.wav,9,1,1,2.75,4,peter picked pickled peppers,picked the the a the pickled picked the picked where's piper the
+0314.wav,5,0,4,1.5,6,where's the pickled peppers peter picked,the where's where's of peck of the peppers picked of the
+0315.wav,3,0,2,1.6666666666666667,3,picked a peter,peck the of peter peter the
+0316.wav,2,0,4,1.2,5,picked a peppers peck peter,peck the where's the peppers picked the
+0317.wav,5,0,2,2.3333333333333335,3,pickled peppers piper,peck the of pickled of where's where's the
+0318.wav,1,0,1,0.6666666666666666,3,pickled the pickled,peck where's the pickled
+0319.wav,3,0,1,1.0,4,of peter where's pickled,peck of peter picked where's picked where's
+0320.wav,6,0,1,2.3333333333333335,3,where's peter piper,the where's pickled where's picked of piper picked the
+0321.wav,2,0,3,1.25,4,a peck of peppers,the pickled of of where's the
+0322.wav,3,0,1,1.3333333333333333,3,pickled peter piper,the pickled peter peter picked the
+0323.wav,4,0,1,1.6666666666666667,3,pickled peter piper,the pickled picked picked piper picked the
+0324.wav,6,1,5,0.7058823529411765,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,peppers the of of of picked of peck of pickled where's where's peck of pickled where's peter piper of a picked the
+0325.wav,3,1,2,0.75,8,peter piper picked a peck of pickled peppers,the of piper picked of a of pickled where's the
+0326.wav,3,0,8,0.9166666666666666,12,peter piper picked pickled peppers where's the pickled peppers peter piper picked,the of piper of a picked where's where's pickled where's where's of peter picked the
+0327.wav,3,1,4,1.0,8,a peck of pickled peppers peter piper picked,the of pickled pickled where's where's of where's picked the
+0328.wav,4,0,4,0.8888888888888888,9,where's the peck of pickled peppers peter piper picked,peck the where's of peck of picked of where's peter where's a picked
