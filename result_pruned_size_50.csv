@@ -1,0 +1,330 @@
+,Filename,Insertions,Deletions,Substitutions,WER,Word Count,transcription,Viterbi transcription,Decode speed,Backtrace speed,Forward computations
+0,0000.wav,2,1,1,0.23529411764705882,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a peter piper the a the peck of pickled peppers where's peck of pickled peppers peter piper picked,2.9572031497955322,0.000720977783203125,114168
+1,0001.wav,3,0,2,0.7142857142857143,7,peter picked a peck of pickled peppers,a a peter picked the peck of pickled peck where's,1.677302598953247,0.0002415180206298828,64852
+2,0002.wav,1,2,0,0.5,6,a peck of pickled peppers picked,a peck picked of picked,1.222161054611206,0.0002334117889404297,48002
+3,0003.wav,1,0,0,0.25,4,peter piper peter piper,a peter piper peter piper,0.942812442779541,0.00013136863708496094,36122
+4,0004.wav,0,0,4,0.5714285714285714,7,where's the peck of pickled peppers picked,a a where's pickled pickled peppers picked,1.2351927757263184,0.0002694129943847656,47142
+5,0005.wav,0,0,0,0.0,4,peter piper pickled peppers,peter piper pickled peppers,0.7538766860961914,0.00010752677917480469,29064
+6,0006.wav,0,0,0,0.0,2,where's peter,where's peter,0.43398094177246094,6.771087646484375e-05,17370
+7,0007.wav,1,0,0,0.2,5,piper picked peppers of peter,a piper picked peppers of peter,0.7115850448608398,9.894371032714844e-05,28518
+8,0008.wav,0,0,0,0.0,6,peter peppers picked piper of peck,peter peppers picked piper of peck,0.8012957572937012,0.00011205673217773438,32196
+9,0009.wav,0,0,1,0.125,8,a peck of pickled peppers peter piper pickled,a peck of picked peppers peter piper pickled,1.0481986999511719,0.00013589859008789062,40958
+10,0010.wav,1,0,0,1.0,1,picked,a picked,0.49240684509277344,7.009506225585938e-05,18118
+11,0011.wav,1,0,0,1.0,1,pickled,a pickled,0.3918170928955078,5.841255187988281e-05,15580
+12,0012.wav,1,0,0,1.0,1,peppers,a peppers,0.6708166599273682,0.00018286705017089844,26486
+13,0013.wav,1,0,0,1.0,1,piper,a piper,0.6031279563903809,8.702278137207031e-05,23954
+14,0014.wav,1,0,0,1.0,1,peter,a peter,0.569439172744751,8.034706115722656e-05,21318
+15,0015.wav,2,1,0,0.5,6,where's the peck of pickled peppers,a where's peck of the pickled peppers,0.9913568496704102,0.0002791881561279297,39700
+16,0016.wav,2,0,0,0.6666666666666666,3,peter piper picked,a peter piper the picked,0.631767988204956,8.7738037109375e-05,25462
+17,0017.wav,1,0,1,0.25,8,peter piper picked a peck of pickled peppers,a peter piper picked of peck of pickled peppers,1.4200170040130615,0.00030040740966796875,54894
+18,0018.wav,2,0,2,0.6666666666666666,6,picked a peck of pickled peppers,a picked the peck of pickled peck where's,0.7023522853851318,0.00014734268188476562,27908
+19,0019.wav,1,0,1,0.6666666666666666,3,peter piper picked,a peter piper a,1.2844738960266113,0.00023317337036132812,49170
+20,0020.wav,1,0,1,0.2857142857142857,7,peppers picked peter piper where's the peck,a peppers picked peter piper where's the the,1.7291910648345947,0.00030803680419921875,66820
+21,0021.wav,5,0,3,0.8,10,peter picked a peck piper pickled peppers of pickled peppers,a peter where's picked of peck piper pickled the of picked of pickled peck picked,2.4974238872528076,0.0005495548248291016,95210
+22,0022.wav,2,0,0,0.25,8,peter piper piper peter peter peter piper piper,a peter piper piper the peter peter peter piper piper,1.8813691139221191,0.0003662109375,72344
+23,0023.wav,2,0,1,0.75,4,peter picked piper peppers,a peter of picked of peppers,1.2006375789642334,0.0001895427703857422,46356
+24,0024.wav,1,0,1,0.3333333333333333,6,peter peter peter peter peter peter,a peter peter peter peter picked peter,1.3373053073883057,0.00022339820861816406,51884
+25,0025.wav,1,0,2,0.42857142857142855,7,piper picked a peck of peter peppers,a a picked of peck of peter peppers,1.3878154754638672,0.0002086162567138672,53898
+26,0026.wav,1,1,2,0.5,8,pickled peppers peter piper picked a peck of,a pickled of picked piper picked peck of,1.3446235656738281,0.0002110004425048828,52086
+27,0027.wav,3,0,2,0.625,8,of peppers of picked a peter piper of,a of of where's of picked of peter piper of a,1.6269245147705078,0.0003159046173095703,62902
+28,0028.wav,2,0,1,0.6,5,pickled peppers peter piper picked,a pickled peppers peter piper of peck,1.0451619625091553,0.00014495849609375,40088
+29,0029.wav,2,1,1,0.5714285714285714,7,peter picked a peck of pickled peppers,a a peck of peck of pickled peppers,1.0412750244140625,0.0002644062042236328,41028
+30,0030.wav,0,1,2,0.3333333333333333,9,where's a peck of pickled peppers peter piper picked,a where's of peck peppers peter piper picked,1.1337647438049316,0.0001742839813232422,43586
+31,0031.wav,1,1,2,0.8,5,peter piper picked the peppers,a picked piper picked of,0.6824774742126465,9.274482727050781e-05,25932
+32,0032.wav,2,1,1,0.8,5,pickled peppers picked peter piper,a peck peppers a picked piper,0.7633099555969238,0.00010395050048828125,29096
+33,0033.wav,0,0,0,0.0,5,a peck of pickled peppers,a peck of pickled peppers,0.7797119617462158,0.00010228157043457031,30296
+34,0034.wav,1,0,0,0.2,5,where's the peck peter picked,a where's the peck peter picked,0.5900650024414062,7.963180541992188e-05,22702
+35,0035.wav,1,0,0,0.25,4,pickled peppers piper picked,a pickled peppers piper picked,1.0256140232086182,0.00013780593872070312,41352
+36,0036.wav,1,0,0,0.3333333333333333,3,peter picked peppers,a peter picked peppers,0.5827732086181641,8.058547973632812e-05,23544
+37,0037.wav,1,1,0,0.25,8,peter piper picked a peck of pickled peppers,a peter piper picked peck of pickled peppers,1.005056381225586,0.00014066696166992188,39286
+38,0038.wav,2,2,1,0.625,8,peter piper picked a peck of pickled peppers,a peter a peck picked picked pickled peppers,0.9898481369018555,0.00013256072998046875,38290
+39,0039.wav,1,0,0,0.14285714285714285,7,peppers pickled peter of the piper peck,a peppers pickled peter of the piper peck,0.8417766094207764,0.00012993812561035156,34040
+40,0040.wav,2,0,1,0.375,8,piper peter picked where's the pickled peppers peter,a peck peter picked where's the pickled peppers peter a,1.1912245750427246,0.0001785755157470703,46732
+41,0041.wav,1,1,1,0.42857142857142855,7,peck pickled piper of the peter peppers,a peck picked of the peter peppers,0.9070825576782227,0.00013136863708496094,36626
+42,0042.wav,1,1,2,0.36363636363636365,11,a peck of pickled peter picked the peppers of the peck,a peck of pickled peter peck the peck a of peck,1.1601691246032715,0.0006940364837646484,45042
+43,0043.wav,3,0,3,0.8571428571428571,7,where's the peck of peppers piper pickled,a where's of a of of where's piper of pickled,0.9453473091125488,0.00013518333435058594,37630
+44,0044.wav,1,1,2,0.5,8,piper pickled peppers of the peck peter picked,a piper pickled peppers of a peter peck,1.134692668914795,0.00019693374633789062,43170
+45,0045.wav,1,1,3,0.8333333333333334,6,piper peter picked pickled piper peppers,a piper the where's pickled picked,1.0692930221557617,0.00014352798461914062,42350
+46,0046.wav,2,5,1,0.7272727272727273,11,peter picked peppers of the pickled peck of peppers of piper,a the pickled pickled peck where's of of,1.1903247833251953,0.00018405914306640625,45404
+47,0047.wav,2,1,3,0.35294117647058826,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a the of piper picked piper of pickled peppers where's the peck of picked peppers peter piper picked,2.0677082538604736,0.0004506111145019531,81130
+48,0048.wav,1,0,1,0.25,8,peter piper picked a peck of pickled peppers,a peter piper picked the peck of pickled peppers,1.159162998199463,0.00017523765563964844,45050
+49,0049.wav,2,0,1,0.3333333333333333,9,where's the peck of pickled peppers peter piper picked,a where's the peck of picked of peppers peter piper picked,0.959373950958252,0.00014352798461914062,37570
+50,0050.wav,2,0,1,0.6,5,pickled peppers pickled peter piper,a pickled of picked pickled peter piper,0.8912057876586914,0.00013566017150878906,35600
+51,0051.wav,1,1,1,0.2727272727272727,11,peter piper picked a peck of pickled peppers peter piper pickled,a peter piper picked picked of pickled peppers peter piper pickled,1.3669703006744385,0.0002040863037109375,53520
+52,0052.wav,2,3,2,0.875,8,peter piper picked a peck of pickled peppers,a the of piper picked peck where's,0.8908147811889648,0.00012493133544921875,35030
+53,0053.wav,1,0,1,0.3333333333333333,6,where's the peck of pickled peppers,a where's of peck of pickled peppers,0.8379850387573242,0.0001251697540283203,31558
+54,0054.wav,1,0,0,0.25,4,piper peter peppers pickled,a piper peter peppers pickled,0.756493091583252,0.00011920928955078125,28378
+55,0055.wav,1,0,1,0.2222222222222222,9,peter piper picked peter piper picked peter piper picked,a peter piper picked peter of picked peter piper picked,0.9389262199401855,0.00011849403381347656,36880
+56,0056.wav,1,1,0,0.2857142857142857,7,where's the peck of peter piper peppers,a where's peck of peter piper peppers,0.7573609352111816,0.0001068115234375,30382
+57,0057.wav,0,1,5,0.75,8,peter piper picked a peck of pickled peppers,a picked piper peck peck picked picked,1.2986524105072021,0.0001823902130126953,49938
+58,0058.wav,2,1,2,0.625,8,the peck of pickled peppers picked peter piper,a the peck the of of picked picked piper,0.932335615158081,0.0001480579376220703,37132
+59,0059.wav,2,0,2,0.6666666666666666,6,piper picked peter the pickled peppers,a piper picked peter the peck the picked,1.1454193592071533,0.00017952919006347656,44864
+60,0060.wav,2,0,1,0.6,5,peck piper peter pickled picked,a peck piper peter of pickled peck,0.8346571922302246,0.0001201629638671875,32024
+61,0061.wav,1,0,0,0.2,5,peck peppers pickled peter piper,a peck peppers pickled peter piper,0.9067752361297607,0.00012111663818359375,36634
+62,0062.wav,3,2,5,0.5882352941176471,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a peter of piper a of a of pickled peppers where's peck of the where's picked piper peck,2.3625454902648926,0.0005028247833251953,89978
+63,0063.wav,2,0,4,0.8571428571428571,7,peter piper picked where's the peck of,a picked of piper a where's of peck a,1.3224725723266602,0.0002315044403076172,50634
+64,0064.wav,3,1,5,0.75,12,pickled peppers pickled peppers peter piper picked a peck of pickled peppers,a a of where's pickled peppers picked piper a of a of picked peppers,1.9109327793121338,0.0005242824554443359,73938
+65,0065.wav,2,0,4,0.75,8,the peck of pickled peppers peter piper picked,a the a of a where's peter of piper a,1.388002872467041,0.00023984909057617188,53890
+66,0066.wav,2,0,3,0.625,8,peter piper picked a peck of pickled peppers,a the the piper picked of peck of pickled where's,1.3014562129974365,0.00020599365234375,50014
+67,0067.wav,2,0,2,0.5,8,pickled peter peppers pickled peppers piper of piper,a picked of peter the pickled peppers piper of piper,1.9698264598846436,0.00040459632873535156,75354
+68,0068.wav,1,0,1,0.4,5,pickled where's peck peck peppers,a pickled where's peck picked peppers,1.1575567722320557,0.0001633167266845703,46328
+69,0069.wav,1,0,2,0.3333333333333333,9,picked pickled a pickled peter of peppers peppers piper,a pickled pickled of pickled peter of peppers peppers piper,1.7028396129608154,0.00033354759216308594,66232
+70,0070.wav,1,0,0,0.25,4,peck peppers picked piper,a peck peppers picked piper,0.94293212890625,0.0001289844512939453,37776
+71,0071.wav,2,0,0,0.4,5,a peter pickled pickled picked,a of peter of pickled pickled picked,1.0935969352722168,0.00015735626220703125,42296
+72,0072.wav,3,1,5,1.0,9,peck peppers picked a picked peter a picked peppers,a of where's picked of a peter of pickled of of,1.7605931758880615,0.00030732154846191406,67462
+73,0073.wav,1,0,1,0.25,8,peck picked peppers peck picked where's of pickled,a peck picked of peck picked where's of pickled,1.4366109371185303,0.0002529621124267578,55412
+74,0074.wav,1,0,2,0.375,8,a peter where's piper the picked picked peppers,a peter where's piper the pickled picked peck of,1.1783747673034668,0.00015473365783691406,45624
+75,0075.wav,2,0,1,0.3333333333333333,9,piper peck of peck pickled picked pickled of peter,a piper of piper of peck pickled picked pickled of peter,1.4188811779022217,0.0002434253692626953,55172
+76,0076.wav,0,1,3,0.4444444444444444,9,peck of peter peppers pickled peppers of picked peter,a of peter of pickled where's of picked,1.5838727951049805,0.0002772808074951172,60938
+77,0077.wav,1,0,0,0.1111111111111111,9,peppers peck of peck peter picked a of peppers,a peppers peck of peck peter picked a of peppers,1.8612563610076904,0.00037026405334472656,72128
+78,0078.wav,0,0,0,0.0,9,a peck of the pickled peppers peter piper picked,a peck of the pickled peppers peter piper picked,1.4821643829345703,0.0002315044403076172,57876
+79,0079.wav,1,0,0,0.16666666666666666,6,piper picked peter of the peck,a piper picked peter of the peck,1.0967316627502441,0.00016450881958007812,42386
+80,0080.wav,0,0,0,0.0,8,a peter picked peck of picked pickled piper,a peter picked peck of picked pickled piper,1.352015495300293,0.0002124309539794922,54270
+81,0081.wav,1,0,0,0.2,5,where's peck peppers of piper,a where's peck peppers of piper,1.0645110607147217,0.0001685619354248047,41482
+82,0082.wav,1,1,1,1.0,3,piper of peppers,a piper picked,1.280052900314331,0.0002295970916748047,49278
+83,0083.wav,1,0,0,0.3333333333333333,3,peter picked piper,a peter picked piper,0.9483075141906738,0.00012755393981933594,36600
+84,0084.wav,0,3,2,0.5555555555555556,9,where's the peck of pickled peppers peter piper picked,of of where's peter piper picked,0.6291933059692383,9.036064147949219e-05,25382
+85,0085.wav,1,1,3,0.45454545454545453,11,the peck of pickled peppers picked a peck of pickled peppers,peck of pickled peppers picked peck of peck of peck where's,0.8682141304016113,0.00011754035949707031,34960
+86,0086.wav,3,2,0,0.625,8,peter piper where's the peck of pickled peppers,peter of piper where's peck pickled peppers peter piper,1.1211433410644531,0.00019884109497070312,43194
+87,0087.wav,0,1,1,0.2222222222222222,9,peter piper peter piper a peck of pickled peppers,peter piper peter piper peck of pickled peter,1.2897229194641113,0.00024628639221191406,49080
+88,0088.wav,0,5,3,0.47058823529411764,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,piper picked peck pickled peppers where's peck picked where's peter picked picked,1.324371337890625,0.000217437744140625,51360
+89,0089.wav,1,3,4,0.47058823529411764,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a peter of picked peck picked picked where's peck of picked peppers peter piper picked,1.559110403060913,0.0003094673156738281,60862
+90,0090.wav,2,0,0,0.11764705882352941,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper of picked,2.299042224884033,0.0004925727844238281,88608
+91,0091.wav,1,1,0,0.5,4,where's the peck of,a where's peck of,0.577866792678833,7.939338684082031e-05,21566
+92,0092.wav,1,1,0,0.4,5,picked a peck of pickled,a picked peck of pickled,0.6408276557922363,9.417533874511719e-05,24164
+93,0093.wav,2,0,1,0.6,5,pickled peppers where's the peck,a pickled of picked where's the peck,0.7511980533599854,0.00010180473327636719,28542
+94,0094.wav,2,0,1,1.0,3,peter picked peppers,a peter picked peck where's,0.6222243309020996,8.7738037109375e-05,23426
+95,0095.wav,1,1,0,0.4,5,peter pickled a picked peck,a peter pickled picked peck,0.8170640468597412,0.00010967254638671875,31240
+96,0096.wav,1,0,3,0.6666666666666666,6,peter picked the peck of peppers,a picked picked the picked of picked,0.8051128387451172,0.00010752677917480469,31208
+97,0097.wav,1,0,2,0.375,8,peter picked a peck of the pickled peppers,a picked piper picked peck of the pickled peppers,1.0365915298461914,0.0001575946807861328,41670
+98,0098.wav,1,0,1,0.2857142857142857,7,the peck of peppers peter piper pickled,a the peck of peck peter piper pickled,0.7559018135070801,0.00011777877807617188,30372
+99,0099.wav,2,0,2,0.36363636363636365,11,the peck pickled peppers picked pickled peter of piper a where's,a the peck a picked picked picked pickled peter of piper a where's,2.0282936096191406,0.00041556358337402344,78660
+100,0100.wav,1,0,0,0.1,10,the picked of piper picked of pickled a peter piper,a the picked of piper picked of pickled a peter piper,1.4608824253082275,0.0002701282501220703,56998
+101,0101.wav,1,0,3,0.2857142857142857,14,peck piper picked of picked pickled of where's a peppers peter peppers peter pickled,a picked piper picked of a pickled of where's a peppers peter peter peter pickled,2.3764808177948,0.0005178451538085938,90090
+102,0102.wav,1,0,0,0.25,4,peppers peck peter pickled,a peppers peck peter pickled,0.9136695861816406,0.0001201629638671875,35312
+103,0103.wav,1,1,0,0.2857142857142857,7,where's piper picked piper a pickled peppers,a where's piper picked piper pickled peppers,1.2337827682495117,0.00020265579223632812,47420
+104,0104.wav,2,0,3,0.8333333333333334,6,peter picked peppers of pickled peppers,a peter a peppers of picked picked a,1.2269301414489746,0.00019097328186035156,47400
+105,0105.wav,1,1,1,0.3333333333333333,9,peter peppers picked piper a peck of pickled peppers,a peter peppers a piper peck of pickled peppers,1.4991531372070312,0.00027108192443847656,58594
+106,0106.wav,2,1,1,0.5,8,peter piper picked a peck of pickled peppers,a peter piper peck picked peck of pickled a,1.343364953994751,0.0002319812774658203,52034
+107,0107.wav,1,0,1,0.25,8,where's the peck of peppers peter piper picked,a where's the peck of peppers peter piper a,1.2484171390533447,0.00018024444580078125,48526
+108,0108.wav,1,0,1,0.2857142857142857,7,the peck of pickled peter piper pickled,a peck of pickled peter piper of pickled,1.0498411655426025,0.00016117095947265625,40224
+109,0109.wav,3,0,1,0.6666666666666666,6,piper peter picked peppers of piper,a piper peter picked peter of piper of a,1.0593454837799072,0.0001621246337890625,41144
+110,0110.wav,3,0,2,0.625,8,peter peppers picked a piper of the peck,a peter of of picked picked of piper of the peck,0.9469738006591797,0.00014257431030273438,38056
+111,0111.wav,1,0,2,0.5,6,peck of picked peter piper picked,a picked picked peter of piper picked,0.8770878314971924,0.00011539459228515625,33938
+112,0112.wav,2,0,1,0.6,5,picked the peppers peter pickled,a a the peppers peter of pickled,0.8558564186096191,0.00011515617370605469,32758
+113,0113.wav,1,0,0,0.14285714285714285,7,the piper of peck peppers peter picked,a the piper of peck peppers peter picked,0.9526357650756836,0.0001327991485595703,38520
+114,0114.wav,0,5,2,0.875,8,piper picked peter a pickled peck of peppers,a where's where's,2.2028603553771973,0.0004506111145019531,83966
+115,0115.wav,2,0,1,1.0,3,where's peter piper,a where's the the piper,1.0466954708099365,0.00014472007751464844,39946
+116,0116.wav,1,1,4,0.6666666666666666,9,piper picked the peck of pickled peppers peter picked,a of picked of of pickled of picked picked,1.3706603050231934,0.0005497932434082031,52410
+117,0117.wav,3,0,3,1.5,4,piper picked peter peppers,a piper the the the of the,1.1246271133422852,0.000152587890625,44394
+118,0118.wav,1,0,3,0.5,8,peter where's the peck of peppers piper picked,a the where's of peck of of piper picked,1.8144726753234863,0.0003008842468261719,69182
+119,0119.wav,1,1,1,0.75,4,piper peck pickled peppers,a piper peck a,1.3383870124816895,0.00016808509826660156,51006
+120,0120.wav,1,0,1,0.6666666666666666,3,peck pickled peter,a a pickled peter,0.7126309871673584,9.465217590332031e-05,28232
+121,0121.wav,1,0,1,0.5,4,peter where's the peck,a pickled where's the peck,0.990755558013916,0.00012993812561035156,39202
+122,0122.wav,1,0,0,0.25,4,the peppers peck pickled,a the peppers peck pickled,1.0043113231658936,0.00012564659118652344,38908
+123,0123.wav,1,0,3,0.6666666666666666,6,peter of a peck of peppers,a peter of the picked of a,0.9472458362579346,0.00012564659118652344,37490
+124,0124.wav,1,0,1,0.4,5,peter peter peter peter peter,a peter peter picked peter peter,0.9195375442504883,0.00011754035949707031,35238
+125,0125.wav,0,0,1,0.3333333333333333,3,piper picked peter,a picked peter,0.6510741710662842,9.250640869140625e-05,26032
+126,0126.wav,1,0,3,1.0,4,piper peppers peter picked,a peck of peter peter,0.8248038291931152,0.00011134147644042969,30852
+127,0127.wav,0,2,1,0.6,5,a peck of pickled peppers,a pickled a,0.8628199100494385,0.00011944770812988281,32200
+128,0128.wav,0,0,1,0.3333333333333333,3,piper pickled pickled,a pickled pickled,0.7354269027709961,0.00018739700317382812,26592
+129,0129.wav,3,1,2,0.75,8,peter piper picked a peck of pickled peppers,a picked of piper picked peck of pickled of of,1.1006135940551758,0.0002651214599609375,39284
+130,0130.wav,2,0,2,0.4444444444444444,9,where's the peck of pickled peppers peter piper picked,a where's the peck of pickled where's peter piper of a,1.3357172012329102,0.0004444122314453125,45262
+131,0131.wav,2,0,2,0.8,5,peter picked piper pickled peppers,a picked picked piper of pickled picked,0.8548750877380371,0.0002529621124267578,31654
+132,0132.wav,1,0,0,0.5,2,where's peter,a where's peter,0.4647231101989746,0.0001506805419921875,16494
+133,0133.wav,2,0,0,0.6666666666666666,3,piper pickled peppers,a piper of pickled peppers,0.670722484588623,0.0002384185791015625,24992
+134,0134.wav,3,1,1,1.0,5,peter piper picked a peck,a picked of piper a of peck,0.724055290222168,0.0005512237548828125,26684
+135,0135.wav,1,1,2,0.5714285714285714,7,a peck of pickled peppers peter picked,a of pickled peck picked peter peck,1.1942002773284912,0.00026798248291015625,44940
+136,0136.wav,2,0,2,0.6666666666666666,6,where's the peck of pickled peppers,a where's the peck of a picked picked,1.094282865524292,0.00014829635620117188,41906
+137,0137.wav,0,0,3,0.6,5,pickled peppers picked peter piper,a picked picked of piper,0.9106616973876953,0.00013017654418945312,34818
+138,0138.wav,2,1,1,0.6666666666666666,6,peter piper where's the peck picked,a peter piper picked the a peck,1.1797904968261719,0.0001652240753173828,45046
+139,0139.wav,2,3,1,0.75,8,peter piper picked a peck of pickled peppers,a the of pickled picked pickled peppers,1.0017454624176025,0.00012612342834472656,38702
+140,0140.wav,2,3,2,0.875,8,peter piper picked a peck of pickled peppers,a of of of pickled picked picked,0.861875057220459,0.00011849403381347656,34318
+141,0141.wav,1,0,3,0.5,8,a peck of pickled peppers peter piper picked,a peck of pickled peck of the of picked,0.7804093360900879,0.00010418891906738281,31040
+142,0142.wav,0,1,3,0.4444444444444444,9,where's the peck of pickled peppers peter piper picked,a the peck of pickled picked of picked,0.8241913318634033,0.00014328956604003906,31134
+143,0143.wav,0,0,1,0.125,8,a peck of pickled peppers peter piper picked,a peck of pickled peppers peter of picked,0.7300760746002197,9.369850158691406e-05,27890
+144,0144.wav,1,2,1,0.5,8,peter piper picked a peck of pickled peppers,a peter peter a peck of peppers,1.3666937351226807,0.00025653839111328125,52392
+145,0145.wav,6,1,3,1.1111111111111112,9,where's the peck of pickled peppers peter piper picked,a a picked the peck of the a piper of the picked piper of,1.9148638248443604,0.00040149688720703125,72942
+146,0146.wav,1,0,0,0.3333333333333333,3,where's peter piper,a where's peter piper,1.1510982513427734,0.00015354156494140625,43434
+147,0147.wav,2,0,2,1.3333333333333333,3,where's pickled peppers,a where's a of picked,0.8832902908325195,0.00011205673217773438,33046
+148,0148.wav,2,0,2,1.0,4,peter picked pickled peppers,a peter picked a of picked,1.1386637687683105,0.00019741058349609375,42590
+149,0149.wav,1,0,1,0.3333333333333333,6,peter picked a peck of peppers,a peter picked of peck of peppers,0.9329993724822998,0.0002696514129638672,35330
+150,0150.wav,1,1,0,0.3333333333333333,6,peter picked a peck of peppers,a peter picked peck of peppers,0.8409824371337891,0.00011348724365234375,33608
+151,0151.wav,1,0,0,0.1111111111111111,9,where's the peck of pickled peppers peter piper picked,a where's the peck of pickled peppers peter piper picked,1.267453908920288,0.00020170211791992188,49350
+152,0152.wav,1,0,2,0.6,5,where's the peppers peter picked,a where's of peppers peter a,0.8386852741241455,0.00011134147644042969,33348
+153,0153.wav,1,0,2,0.375,8,where's the peck of peppers peter piper picked,a where's of peck of peppers peter piper peter,1.0705687999725342,0.00014019012451171875,41346
+154,0154.wav,2,0,2,0.5,8,peter piper picked a peck of pickled peppers,a picked picked piper picked of peck of pickled peppers,1.172339677810669,0.00016427040100097656,45574
+155,0155.wav,0,0,0,0.0,5,a peck of pickled peppers,a peck of pickled peppers,0.9400262832641602,0.0001392364501953125,36370
+156,0156.wav,3,0,3,1.5,4,peter piper picked peppers,a the of piper peter peck of,0.869779109954834,0.00011420249938964844,33322
+157,0157.wav,3,1,2,0.6666666666666666,9,peter piper picked where's the peck of pickled peppers,a peter peck of picked where's the pickled pickled peck peppers,1.2339239120483398,0.00029969215393066406,47778
+158,0158.wav,1,1,2,0.5,8,peter piper picked a peck of pickled peppers,a picked piper peter peck of pickled peppers,1.304175615310669,0.0001800060272216797,51556
+159,0159.wav,1,0,1,0.2222222222222222,9,where's the peck of pickled peppers peter piper picked,a where's the peck of pickled peppers peter peck picked,1.4128952026367188,0.00020766258239746094,55400
+160,0160.wav,4,0,3,0.875,8,peter piper picked a peck of pickled peppers,a a of piper of picked of peck of pickled piper of,1.2395048141479492,0.00018072128295898438,48676
+161,0161.wav,3,1,2,0.6666666666666666,9,where's the peck of pickled peppers peter piper picked,a where's peck of pickled piper picked peter piper of peter,1.26995849609375,0.000232696533203125,47740
+162,0162.wav,3,0,4,1.0,7,peck of pickled peppers peter piper picked,a piper of pickled piper a picked piper of the,1.304175615310669,0.0002002716064453125,49052
+163,0163.wav,3,0,3,0.75,8,peter piper picked a peck of pickled peppers,a peter piper of picked of piper of pickled piper picked,1.175753116607666,0.00015997886657714844,45502
+164,0164.wav,3,0,1,0.8,5,peter piper picked pickled peppers,a peter piper of picked pickled piper a,1.0324602127075195,0.00013709068298339844,39422
+165,0165.wav,1,0,0,0.3333333333333333,3,peter piper picked,a peter piper picked,0.6602096557617188,8.845329284667969e-05,25200
+166,0166.wav,2,0,2,0.5,8,peter piper picked a peck of pickled peppers,a the of piper picked of peck of pickled peppers,1.1395299434661865,0.00015616416931152344,45224
+167,0167.wav,2,0,2,0.6666666666666666,6,picked a peck of pickled peppers,a a the of peck of picked peppers,0.9455041885375977,0.00012969970703125,36392
+168,0168.wav,1,1,0,0.3333333333333333,6,where's the peck of pickled peppers,a where's peck of pickled peppers,0.8554122447967529,0.00011467933654785156,33046
+169,0169.wav,0,2,1,0.3,10,peter piper picked a peck where's the peck peter picked,a piper picked peck where's peck peter picked,1.348323106765747,0.00021266937255859375,52734
+170,0170.wav,1,0,1,0.4,5,peter piper picked pickled peppers,a picked piper picked pickled peppers,1.0274522304534912,0.00021719932556152344,39936
+171,0171.wav,1,0,2,0.375,8,peter piper picked pickled peppers where's the peck,a picked piper picked pickled piper where's the peck,1.3402199745178223,0.0001983642578125,52062
+172,0172.wav,1,1,1,0.3333333333333333,9,where's the peck of pickled peppers peter piper picked,a where's the peck pickled piper peter piper picked,1.471822738647461,0.0002086162567138672,57502
+173,0173.wav,1,1,4,0.75,8,peter piper picked a peck of pickled peppers,a picked of piper a of pickled piper,1.172203540802002,0.0001537799835205078,44674
+174,0174.wav,1,2,4,0.4117647058823529,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a picked piper picked of peck pickled peppers where's the peck pickled pickled peter peter picked,2.24295973777771,0.0004832744598388672,85714
+175,0175.wav,1,0,0,0.5,2,peter piper,a peter piper,0.8679854869842529,0.0001621246337890625,33254
+176,0176.wav,1,0,1,1.0,2,pickled peppers,a pickled peter,0.7029168605804443,0.00028824806213378906,27292
+177,0177.wav,3,0,1,0.4444444444444444,9,where's the peck of pickled peppers peter piper picked,a where's the peck of pickled of where's peter a piper picked,2.3792788982391357,0.0006346702575683594,91632
+178,0178.wav,1,0,1,1.0,2,pickled peppers,a a peppers,0.6320614814758301,0.0001678466796875,24718
+179,0179.wav,2,1,3,1.0,6,picked a peck of pickled peppers,a a pickled pickled picked of a,1.6394336223602295,0.0004889965057373047,60782
+180,0180.wav,1,0,2,0.375,8,peter piper picked a peck of pickled peppers,a peter peter picked of peck of pickled peppers,1.261371374130249,0.00035762786865234375,49474
+181,0181.wav,1,0,2,0.375,8,the peck of pickled peppers peter piper picked,a of peck of pickled peppers peter peter picked,1.5815646648406982,0.001211404800415039,58696
+182,0182.wav,2,0,1,0.75,4,peter picked pickled peppers,a peter of picked pickled piper,1.076023817062378,0.00014209747314453125,41142
+183,0183.wav,1,0,0,0.16666666666666666,6,where's the peck of pickled peppers,a where's the peck of pickled peppers,1.0881195068359375,0.00014066696166992188,41958
+184,0184.wav,1,0,0,0.2,5,a peck of pickled peppers,a of peck of pickled peppers,0.8751671314239502,0.00011157989501953125,33600
+185,0185.wav,3,1,1,0.8333333333333334,6,piper picked a peck of peter,a a picked a the peck peter a,1.1362254619598389,0.00015044212341308594,45030
+186,0186.wav,1,1,1,0.5,6,peter pickled a peck of peppers,a peter pickled peck of where's,1.0386793613433838,0.0001418590545654297,39960
+187,0187.wav,2,0,2,1.3333333333333333,3,piper pickled peter,a a a of peter,0.7098431587219238,9.1552734375e-05,26982
+188,0188.wav,1,0,1,0.4,5,where's peter piper pickled peppers,a where's peter piper a peppers,0.8649358749389648,0.00011658668518066406,34406
+189,0189.wav,1,0,3,0.6666666666666666,6,piper peter picked peppers picked peter,a piper peter a where's a peter,1.0866076946258545,0.00013875961303710938,41714
+190,0190.wav,5,0,3,0.47058823529411764,17,piper pickled picked peppers of picked a pickled piper the peppers peck of peter peter peck where's,a piper of pickled picked peppers of picked of pickled picked of the of of picked peck of peter peter peck where's,3.0443952083587646,0.0007188320159912109,117384
+191,0191.wav,2,0,3,0.29411764705882354,17,a peter the of peck where's piper peter picked pickled picked peppers pickled of peck peppers piper,a of peter where's of peck where's piper peter picked pickled pickled of picked pickled of peck peppers piper,3.6857643127441406,0.0010628700256347656,133842
+192,0192.wav,3,0,3,0.35294117647058826,17,peter picked peppers piper picked peter of where's peck pickled the peck pickled a piper peppers of,a peter picked peter picked piper picked peter of where's peck pickled the of peck pickled of piper picked of,3.538773536682129,0.0010650157928466797,132638
+193,0193.wav,4,1,4,0.5294117647058824,17,peck piper picked peppers peck the a peter pickled of pickled picked piper of where's peter peppers,a a piper picked peppers peck the of of peter pickled of pickled peter picked where's where's peter of picked,3.8917603492736816,0.001168966293334961,144160
+194,0194.wav,1,0,3,0.23529411764705882,17,a picked pickled peck of of picked the peck piper piper peter pickled peter peppers where's peppers,a a pickled peck of of picked of peck piper of piper peter pickled peter of where's peppers,3.628880739212036,0.0010955333709716797,136692
+195,0195.wav,1,4,1,0.75,8,peter piper picked a peck of pickled peppers,a the piper picked a,1.7385742664337158,0.0005691051483154297,64714
+196,0196.wav,2,0,4,0.6666666666666666,9,where's the peck of pickled peppers peter piper picked,a a the peck of picked piper of picked piper picked,1.6522538661956787,0.000457763671875,62152
+197,0197.wav,2,1,5,0.47058823529411764,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a the piper picked peck of picked of picked where's the picked of pickled peppers peter pickled picked,2.3630707263946533,0.0007240772247314453,89624
+198,0198.wav,1,0,7,0.47058823529411764,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a peter of of pickled peck of pickled peppers where's peck peck of picked peppers picked pickled picked,1.9163155555725098,0.0006172657012939453,73832
+199,0199.wav,0,0,9,0.5294117647058824,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a peppers picked of peck of picked peppers where's of peck of picked peck picked peck picked,1.7223153114318848,0.0005373954772949219,66580
+200,0200.wav,1,3,8,0.7058823529411765,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,the the of picked picked pickled peck the peck of picked peck where's pickled picked,1.7466094493865967,0.0005412101745605469,65682
+201,0201.wav,0,3,6,0.5294117647058824,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a pickled picked picked peppers picked of peck of pickled peppers peter peck picked,1.6018681526184082,0.0004286766052246094,61382
+202,0202.wav,1,2,0,0.3,10,peppers picked a peck of peter a pickled peter piper,a peppers picked peck of peter pickled peter piper,1.2297289371490479,0.00034427642822265625,46708
+203,0203.wav,1,1,0,0.11764705882352941,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a peter piper picked peck of pickled peppers where's the peck of pickled peppers peter piper picked,1.8577544689178467,0.0006647109985351562,71012
+204,0204.wav,1,0,0,0.14285714285714285,7,peck of pickled peppers peter piper picked,a peck of pickled peppers peter piper picked,1.1162660121917725,0.0002448558807373047,42344
+205,0205.wav,1,0,1,0.2857142857142857,7,peter piper peck peppers picked peter peppers,a peter piper peck peppers peck peter peppers,1.0303277969360352,0.0001888275146484375,40162
+206,0206.wav,1,1,0,0.25,8,pickled peter piper a peck the peppers picked,a pickled peter piper peck the peppers picked,1.1000795364379883,0.00035691261291503906,41592
+207,0207.wav,1,1,1,0.375,8,peter piper picked a peck of pickled peppers,a peter piper picked of peck pickled peppers,1.0438361167907715,0.00035858154296875,39662
+208,0208.wav,1,1,5,0.7777777777777778,9,where's the peck of pickled peppers peter piper picked,a where's of of picked picked of of picked,1.0833520889282227,0.00031113624572753906,41262
+209,0209.wav,1,0,1,0.3333333333333333,6,peter picked piper where's the peck,a peter picked piper where's of peck,1.012704610824585,0.0002827644348144531,38642
+210,0210.wav,1,0,6,0.875,8,pickled peter the peppers a piper where's picked,a a of picked of of of where's picked,0.829012393951416,0.00012564659118652344,31714
+211,0211.wav,1,1,2,0.4444444444444444,9,piper pickled peppers where's a peter picked a peck,a piper picked peppers where's of peter picked peck,0.9860377311706543,0.0001475811004638672,38954
+212,0212.wav,3,5,5,0.7647058823529411,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a peter of a where's where's of peck pickled peck where's the peter of a,2.5324089527130127,0.0019071102142333984,94204
+213,0213.wav,1,4,5,0.625,16,the peck of pickled peppers peter piper picked peter piper picked a peck of pickled peppers,a pickled peck of peter piper a pickled piper peck peck pickled of,2.3981029987335205,0.0007393360137939453,91998
+214,0214.wav,1,3,6,0.7142857142857143,14,a peck of pickled peppers peter piper picked where's the peck of pickled peppers,a where's a a of peppers the a where's of pickled of,3.006772518157959,0.0009253025054931641,113388
+215,0215.wav,2,3,8,0.8125,16,a peck of pickled peppers picked peter piper where's peter piper peck of pickled peppers picked,a of a of a where's the a where's the peter pickled peck where's a,2.966153144836426,0.0008876323699951172,112696
+216,0216.wav,2,2,8,0.75,16,a peck of peppers pickled picked peter piper where's peter piper peppers pickled the peck picked,a of a of a where's a the of piper where's peter where's the piper a,3.2534608840942383,0.0008840560913085938,121962
+217,0217.wav,2,0,4,0.5454545454545454,11,peter where's a peter picked of piper piper peck pickled picked,a pickled where's of peter picked of piper piper picked peter the picked,2.0906245708465576,0.0006084442138671875,81002
+218,0218.wav,1,0,0,0.2,5,pickled peter pickled of peck,a pickled peter pickled of peck,1.6143121719360352,0.0004792213439941406,61292
+219,0219.wav,2,0,5,0.5833333333333334,12,peppers peppers piper the peck peter picked pickled of pickled piper picked,a where's of where's piper of peck peter picked picked of picked piper picked,2.281837224960327,0.0007750988006591797,86740
+220,0220.wav,2,0,1,0.3333333333333333,9,where's the peck of pickled peppers peter piper picked,a where's the peck of pickled of of peter piper picked,1.2265901565551758,0.0003638267517089844,46250
+221,0221.wav,2,0,4,0.35294117647058826,17,peck a piper pickled peter of of the peck peter picked piper where's peppers pickled peppers picked,a peck of piper pickled peter of of of peck peter picked piper where's of where's peter peppers picked,2.6168789863586426,0.0008478164672851562,100236
+222,0222.wav,1,1,1,0.5,6,peppers of piper pickled the peter,a peck of piper pickled peter,0.7454969882965088,0.0001811981201171875,29636
+223,0223.wav,1,0,0,0.14285714285714285,7,piper picked peter pickled where's the peppers,a piper picked peter pickled where's the peppers,0.8093385696411133,0.00019288063049316406,32278
+224,0224.wav,1,0,0,0.16666666666666666,6,the peck of piper peter picked,a the peck of piper peter picked,0.6118407249450684,0.00012493133544921875,24456
+225,0225.wav,1,1,1,0.42857142857142855,7,piper peter peter piper picked the peppers,a peck peter peter piper picked peppers,0.8794064521789551,0.00021886825561523438,33974
+226,0226.wav,1,1,1,0.5,6,where's the piper of peck peter,a where's peppers of peck peter,0.7803971767425537,0.0001742839813232422,29656
+227,0227.wav,1,0,5,0.8571428571428571,7,peter picked a peck of pickled peppers,a the of picked peck of picked where's,0.8873240947723389,0.00020766258239746094,33562
+228,0228.wav,2,0,3,0.7142857142857143,7,peter piper picked a peck of peppers,a the of piper the the peck of peppers,0.7994389533996582,0.00019049644470214844,30256
+229,0229.wav,3,0,3,1.2,5,where's the peppers peter picked,a where's peck of where's picked of peter,0.7741568088531494,0.00018477439880371094,29244
+230,0230.wav,1,1,2,0.6666666666666666,6,where's the peck of pickled peppers,a where's peck of the where's,0.721951961517334,0.0001742839813232422,28322
+231,0231.wav,2,0,3,0.7142857142857143,7,where's the pickled peppers peter piper picked,a where's the the peppers picked piper of the,0.8801236152648926,0.0002453327178955078,34780
+232,0232.wav,2,2,1,0.29411764705882354,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a peter of piper peck peck of pickled peppers where's peck of pickled peppers peter piper picked,1.7087147235870361,0.0004887580871582031,65016
+233,0233.wav,1,0,4,0.29411764705882354,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a a peck piper peck peck of pickled peppers where's the peck of pickled peppers peter piper picked,1.8874106407165527,0.000560760498046875,73722
+234,0234.wav,2,0,0,0.3333333333333333,6,peter peter peter peter piper peter,a peter peter peter peter piper peter of,1.27427077293396,0.00033020973205566406,48552
+235,0235.wav,2,0,0,0.5,4,pickled peppers where's peter,a pickled peppers where's peter a,0.9596035480499268,0.0002484321594238281,37778
+236,0236.wav,1,1,4,0.75,8,peter piper picked a peck of pickled peppers,the the of peter picked peck pickled peppers,1.0866115093231201,0.0003566741943359375,41908
+237,0237.wav,1,0,1,0.6666666666666666,3,the pickled piper,a the pickled peter,0.9594852924346924,0.00033855438232421875,37684
+238,0238.wav,1,0,0,0.2,5,peter piper peck pickled peppers,a peter piper peck pickled peppers,1.2719707489013672,0.0004107952117919922,49000
+239,0239.wav,1,1,0,0.25,8,peter piper picked a peck of pickled peppers,a peter piper picked peck of pickled peppers,1.2122035026550293,0.00033354759216308594,46476
+240,0240.wav,1,0,2,0.3333333333333333,9,where's the peck of pickled peppers peter piper picked,a picked of peck of pickled peppers peter piper picked,1.3888990879058838,0.00041294097900390625,53402
+241,0241.wav,2,0,1,0.5,6,peter picked peppers piper pickled peppers,a peter picked of where's piper pickled peppers,1.2010586261749268,0.00033473968505859375,47340
+242,0242.wav,1,0,1,0.2857142857142857,7,where's the peck of peppers peter picked,a where's of peck of peppers peter picked,0.9741473197937012,0.00026154518127441406,37064
+243,0243.wav,1,0,1,0.2857142857142857,7,where's the peck of peppers piper pickled,a where's of peck of peppers piper pickled,0.9835131168365479,0.0002727508544921875,38644
+244,0244.wav,4,0,3,1.0,7,peter picked a peck of pickled peppers,a of a of a the of peck of pickled where's,1.9008655548095703,0.0005784034729003906,72226
+245,0245.wav,2,0,4,1.2,5,the pickled peppers peter picked,a a of where's picked of the,1.3578064441680908,0.0003745555877685547,51670
+246,0246.wav,1,1,1,1.0,3,where's the piper,a where's of,0.8789491653442383,0.00024962425231933594,32912
+247,0247.wav,2,0,1,1.0,3,piper picked peter,a piper the peter the,1.2104737758636475,0.0003256797790527344,45504
+248,0248.wav,2,0,3,1.25,4,peter peter piper peppers,a picked of piper of where's,1.19730806350708,0.0003848075866699219,46662
+249,0249.wav,1,0,1,0.3333333333333333,6,pickled piper peter peck of peppers,a pickled piper the peck of peppers,0.957228422164917,0.00023674964904785156,36478
+250,0250.wav,2,2,1,0.2777777777777778,18,where's peter of peck picked peppers a piper of pickled the peck picked a piper where's of peck,a where's peter of peck picked of a of piper of pickled the peck picked piper where's peck,1.7960422039031982,0.0006771087646484375,69216
+251,0251.wav,2,1,1,0.36363636363636365,11,peck a pickled piper peter of peppers picked the peppers pickled,a peck pickled piper of the of peppers picked the peppers pickled,1.137047290802002,0.00038933753967285156,43658
+252,0252.wav,2,0,2,1.3333333333333333,3,where's peter piper,a where's picked of a,0.5398516654968262,0.00019216537475585938,19870
+253,0253.wav,3,2,1,0.6,10,of peppers where's a peck the pickled peter piper picked,a of peppers a of peck pickled a of piper picked,1.1092541217803955,0.0004010200500488281,42232
+254,0254.wav,1,0,3,0.23529411764705882,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a a picked a picked peck of pickled peppers a the peck of pickled peppers peter piper picked,1.647503137588501,0.00048065185546875,64298
+255,0255.wav,7,1,3,0.6470588235294118,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a a peter of piper a of a of pickled peppers where's the peck of picked peppers peter piper of peck a a,5.1089136600494385,0.0015344619750976562,192174
+256,0256.wav,1,2,3,0.35294117647058826,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a peter piper a peck of picked peppers where's peck of picked peppers picked piper picked,2.8464303016662598,0.0008797645568847656,109374
+257,0257.wav,5,0,5,0.5882352941176471,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a a of of of a of peck of pickled peppers where's the peck of picked of of picked peter piper picked,2.12778639793396,0.0006606578826904297,81810
+258,0258.wav,2,2,5,0.5294117647058824,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a picked of of picked peck of where's the peck of pickled peppers peter of picked picked,2.266117811203003,0.0006744861602783203,87050
+259,0259.wav,2,1,5,0.47058823529411764,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a picked of picked peck of pickled of picked where's the peck of picked peppers peter of picked,1.6469461917877197,0.0004687309265136719,63604
+260,0260.wav,2,0,4,1.0,6,peck of pickled peppers peter picked,a of picked of piper picked of a,0.9257309436798096,0.0002715587615966797,34984
+261,0261.wav,3,1,0,0.8,5,where's the peck peter picked,a where's the peck picked of a,0.8347675800323486,0.00019812583923339844,31612
+262,0262.wav,2,0,3,1.0,5,pickled peppers peter piper picked,a pickled of the of of picked,0.7431454658508301,9.751319885253906e-05,28288
+263,0263.wav,2,0,3,0.8333333333333334,6,peter picked peck of pickled peppers,a a of peck peck of pickled piper,0.9329211711883545,0.000156402587890625,36890
+264,0264.wav,1,0,0,0.25,4,where's peter piper peck,a where's peter piper peck,0.7448248863220215,0.00016570091247558594,29380
+265,0265.wav,0,1,2,1.0,3,piper picked peppers,a of,0.6855349540710449,9.322166442871094e-05,26988
+266,0266.wav,0,2,4,1.0,6,where's peter piper pickled picked peppers,a of of a,0.9894213676452637,0.00021123886108398438,36904
+267,0267.wav,0,2,3,0.8333333333333334,6,the peck of peppers peter picked,a of of a,0.7266371250152588,0.0001633167266845703,26878
+268,0268.wav,0,3,2,0.8333333333333334,6,where's the pickled peck of peppers,a of the,0.7333567142486572,0.00017523765563964844,27264
+269,0269.wav,2,1,1,0.8,5,peter piper picked pickled peppers,a peter piper a picked of,1.270308256149292,0.00026702880859375,47974
+270,0270.wav,1,0,1,0.6666666666666666,3,peter picked piper,a peter a piper,0.8365442752838135,0.0002739429473876953,31402
+271,0271.wav,1,0,2,0.75,4,picked peppers picked piper,a a picked picked piper,1.0398650169372559,0.000286102294921875,39108
+272,0272.wav,1,1,3,0.8333333333333334,6,where's the pickled peppers piper picked,a where's the picked where's a,1.1435742378234863,0.00020837783813476562,42450
+273,0273.wav,1,0,6,1.0,7,peck of picked peppers piper peter picked,a picked a picked of the of a,1.3007874488830566,0.00018668174743652344,49852
+274,0274.wav,1,0,0,0.25,4,peter piper picked peppers,a peter piper picked peppers,1.177211046218872,0.0001475811004638672,45614
+275,0275.wav,2,0,2,1.3333333333333333,3,pickled peppers picked,a a of peppers a,0.7573535442352295,0.00023889541625976562,29896
+276,0276.wav,2,1,1,0.5714285714285714,7,peter piper picked a peck of peppers,a peter piper picked of peck peck of,1.2401106357574463,0.00031757354736328125,47464
+277,0277.wav,2,0,2,1.0,4,piper picked pickled peppers,a piper a pickled of where's,0.9259724617004395,0.0002200603485107422,36546
+278,0278.wav,1,0,0,0.25,4,peter piper pickled peppers,a peter piper pickled peppers,0.9634101390838623,0.00024008750915527344,36976
+279,0279.wav,1,0,4,1.25,4,peck the peppers peck,a a of where's a,1.138169765472412,0.00029206275939941406,44360
+280,0280.wav,1,1,2,0.8,5,piper the piper pickled peppers,a of the piper picked,1.147028923034668,0.0002429485321044922,43624
+281,0281.wav,2,0,5,1.0,7,peter picked piper picked the picked peppers,a a of the a of the picked piper,1.1371698379516602,0.00014328956604003906,43050
+282,0282.wav,4,0,3,1.4,5,pickled piper peppers pickled peter,a a of of of of where's pickled peter,0.956719160079956,0.00012612342834472656,36578
+283,0283.wav,5,0,8,0.7647058823529411,17,piper peter picked a peck of pickled peppers where's the peck of pickled peppers piper peter picked,a of peter the of a of the of of where's where's the peck of the of peppers piper the of the,1.5067219734191895,0.0002090930938720703,58258
+284,0284.wav,0,0,1,0.5,2,the peck,a peck,0.6651051044464111,8.940696716308594e-05,26522
+285,0285.wav,1,0,0,0.25,4,where's the peck peter,a where's the peck peter,0.6845614910125732,9.1552734375e-05,27634
+286,0286.wav,1,0,0,0.3333333333333333,3,piper pickled peppers,a piper pickled peppers,0.7523543834686279,9.846687316894531e-05,30146
+287,0287.wav,3,0,1,0.5,8,a peck of pickled peppers peter piper picked,a of peck of pickled the of where's peter piper picked,1.0554611682891846,0.00023245811462402344,40748
+288,0288.wav,2,0,2,0.6666666666666666,6,peppers pickled a peck picked peter,a of of pickled of peck picked peter,0.997870922088623,0.00013208389282226562,38844
+289,0289.wav,0,0,3,1.0,3,peter picked peppers,a peck peter,0.6025757789611816,8.273124694824219e-05,23810
+290,0290.wav,1,0,2,0.75,4,peck of pickled peppers,a picked of pickled where's,0.6786675453186035,8.940696716308594e-05,25808
+291,0291.wav,2,0,2,1.3333333333333333,3,where's peter piper,a picked a of piper,0.6133654117584229,7.891654968261719e-05,23200
+292,0292.wav,1,0,2,0.75,4,pickled peck of peppers,a of peck of picked,0.8261051177978516,0.00010919570922851562,31702
+293,0293.wav,2,1,1,0.8,5,peter piper picked a peck,a where's piper a peck peck,0.8775460720062256,0.0001957416534423828,33042
+294,0294.wav,1,0,1,0.4,5,peppers of piper peck peter,a where's of piper peck peter,1.6403594017028809,0.001253366470336914,61698
+295,0295.wav,1,0,2,0.5,6,peter a piper of a peck,a peter of piper of a of,0.975792407989502,0.00024247169494628906,36628
+296,0296.wav,1,0,2,0.75,4,peck pickled peter peck,a peck pickled picked a,1.0277495384216309,0.000270843505859375,38566
+297,0297.wav,1,0,2,0.3333333333333333,9,a piper of peter picked peppers of pickled peter,a a piper of peter of where's of pickled peter,1.538644790649414,0.0004570484161376953,59134
+298,0298.wav,1,0,4,1.0,5,of peck a peter pickled,a of peppers picked of picked,1.1618189811706543,0.0002918243408203125,43580
+299,0299.wav,1,2,1,0.5714285714285714,7,piper picked a peck of the peppers,a of picked peck the peppers,0.647362470626831,0.0002002716064453125,24500
+300,0300.wav,1,0,0,0.3333333333333333,3,where's peter piper,a where's peter piper,0.7057723999023438,0.00019812583923339844,26548
+301,0301.wav,0,0,0,0.0,4,pickled peppers of peter,pickled peppers of peter,0.5598006248474121,0.0001010894775390625,20758
+302,0302.wav,2,0,1,0.375,8,a peck of pickled peppers of peter piper,a of peck of pickled of the of peter piper,0.7809305191040039,0.00017452239990234375,29530
+303,0303.wav,1,0,3,0.8,5,peppers peppers peppers peppers peppers,a peppers of peter peppers of,0.7554595470428467,0.0002071857452392578,28442
+304,0304.wav,1,0,0,0.2,5,peter peck the pickled peppers,a peter peck the pickled peppers,0.6958613395690918,0.0002377033233642578,26380
+305,0305.wav,1,1,0,0.4,5,pickled peter picked the piper,a pickled peter picked piper,0.6331698894500732,0.0001308917999267578,23752
+306,0306.wav,1,1,0,0.2857142857142857,7,where's the peck of peppers peter picked,a where's peck of peppers peter picked,0.7851324081420898,0.0001773834228515625,29740
+307,0307.wav,0,0,1,0.16666666666666666,6,the peppers pickled peter peppers piper,a peppers pickled peter peppers piper,0.828773021697998,0.000202178955078125,31516
+308,0308.wav,3,0,3,1.0,6,peppers peck peppers picked peppers peter,a of picked peppers picked of picked peter the,0.8653168678283691,0.00019669532775878906,32838
+309,0309.wav,8,0,5,0.8125,16,peter piper picked a peck of pickled peppers the peck of pickled peppers peter piper picked,a the picked piper of picked of peck of pickled peck picked where's the peck of picked picked peter piper picked of of of,3.7635674476623535,0.001157999038696289,142932
+310,0310.wav,4,3,8,0.8823529411764706,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a the picked peter picked of picked where's peck of of picked where's picked the peck where's peck,2.621652126312256,0.0007998943328857422,101122
+311,0311.wav,4,0,2,1.2,5,a peck of pickled peppers,a peck of piper of of the picked a,1.3815569877624512,0.0003612041473388672,52404
+312,0312.wav,2,0,1,1.0,3,where's peter piper,a where's peter the a,0.6991801261901855,0.00015044212341308594,27366
+313,0313.wav,4,0,3,1.75,4,peter picked pickled peppers,a the a the of the the peppers,0.8339595794677734,0.00020694732666015625,32456
+314,0314.wav,2,0,4,1.0,6,where's the pickled peppers peter picked,a of where's of peck of the picked,0.8634517192840576,0.0002987384796142578,32238
+315,0315.wav,1,1,0,0.6666666666666666,3,picked a peter,a of peter,0.554332971572876,0.00019669532775878906,21606
+316,0316.wav,0,1,3,0.8,5,picked a peppers peck peter,a the of picked,0.842627763748169,0.0003426074981689453,31366
+317,0317.wav,2,0,2,1.3333333333333333,3,pickled peppers piper,a pickled of the where's,0.555412769317627,0.0002243518829345703,21820
+318,0318.wav,1,0,0,0.3333333333333333,3,pickled the pickled,a pickled the pickled,0.4586315155029297,0.00010561943054199219,18000
+319,0319.wav,0,0,2,0.5,4,of peter where's pickled,peck peter where's picked,0.5163528919219971,0.00010251998901367188,19186
+320,0320.wav,2,0,1,1.0,3,where's peter piper,a a where's picked piper,0.9245996475219727,0.00021529197692871094,34926
+321,0321.wav,1,0,2,0.75,4,a peck of peppers,a a of of picked,0.7624969482421875,0.00018930435180664062,29852
+322,0322.wav,1,0,1,0.6666666666666666,3,pickled peter piper,a pickled peter peter,0.7213597297668457,0.00017213821411132812,28450
+323,0323.wav,1,0,1,0.6666666666666666,3,pickled peter piper,a pickled picked piper,0.9329485893249512,0.0002262592315673828,36520
+324,0324.wav,2,1,6,0.5294117647058824,17,peter piper picked a peck of pickled peppers where's the peck of pickled peppers peter piper picked,a the of of of picked peck of pickled where's where's peck of pickled peppers peter piper peck,2.1457419395446777,0.0006554126739501953,82446
+325,0325.wav,4,1,2,0.875,8,peter piper picked a peck of pickled peppers,a the of piper picked of a of pickled peck where's,1.1070377826690674,0.0002789497375488281,42112
+326,0326.wav,2,0,7,0.75,12,peter piper picked pickled peppers where's the pickled peppers peter piper picked,a the of piper a pickled of where's where's pickled where's the of picked,1.6404550075531006,0.0005009174346923828,62926
+327,0327.wav,2,1,3,0.75,8,a peck of pickled peppers peter piper picked,a of pickled picked where's the of picked a,1.089634895324707,0.00027060508728027344,41462
+328,0328.wav,4,1,4,1.0,9,where's the peck of pickled peppers peter piper picked,a where's peck of the of peck where's peter the of a,0.9500775337219238,0.0002524852752685547,36254
